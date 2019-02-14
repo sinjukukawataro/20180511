@@ -23,8 +23,11 @@
 153.webchain.network,domainlist coinminer domain
 154-105.clona.ru,domainlist coinminer domain
 154-120.clona.ru,domainlist coinminer domain
+154-152.connectbtc.com,domainlist coinminer domain
 154-164.clona.ru,domainlist coinminer domain
+154-246.connectbtc.com,domainlist coinminer domain
 154-53.webchain.network,domainlist coinminer domain
+154-68.connectbtc.com,domainlist coinminer domain
 16bit.suprnova.cc,domainlist coinminer domain
 176.clona.ru,domainlist coinminer domain
 1beb2a44.space,domainlist coinminer domain
@@ -58,6 +61,8 @@
 3d0cb547.space,domainlist coinminer domain
 3d0cb547.spacebrony.dnb.io,domainlist coinminer domain
 40.97.160.2.krunzy.com,domainlist coinminer domain
+40.connectbtc.com,domainlist coinminer domain
+42.connectbtc.com,domainlist coinminer domain
 42.mastermining.net,domainlist coinminer domain
 42.xtrapool.com,domainlist coinminer domain
 42pool.xtrapool.com,domainlist coinminer domain
@@ -82,6 +87,7 @@
 96.114.157.78.krunzy.com,domainlist coinminer domain
 97.74.135.143.krunzy.com,domainlist coinminer domain
 99miners.com,domainlist coinminer domain
+_domainkey.connectbtc.com,domainlist coinminer domain
 a.doko.moe,domainlist coinminer domain
 a.mx.cryptomininggame.com,domainlist coinminer domain
 a.pool.ml,domainlist coinminer domain
@@ -461,6 +467,7 @@ api.coinsecure.in,domainlist coinminer domain
 api.cointrend.club,domainlist coinminer domain
 api.collusion.tech,domainlist coinminer domain
 api.comining.io,domainlist coinminer domain
+api.connectbtc.com,domainlist coinminer domain
 api.crypto-loot.com,domainlist coinminer domain
 api.cryptokitties.co,domainlist coinminer domain
 api.cryptonator.com,domainlist coinminer domain
@@ -781,6 +788,7 @@ atlanta01.minemonero.pro,domainlist coinminer domain
 atlanta01.monero.hashvault.pro,domainlist coinminer domain
 atlanta01.sumokoin.hashvault.pro,domainlist coinminer domain
 atlanta02.minemonero.pro,domainlist coinminer domain
+atlas.connectbtc.com,domainlist coinminer domain
 atlas.phoenixcoin.org,domainlist coinminer domain
 atom-server.bluematt.me,domainlist coinminer domain
 atom.otherb.com,domainlist coinminer domain
@@ -860,6 +868,7 @@ aymcsx.ru,domainlist coinminer domain
 azar.xminingpool.com,domainlist coinminer domain
 azvjudwr.info,domainlist coinminer domain
 b.cryptoknight.cc,domainlist coinminer domain
+b.geo.pirlpool.eu,domainlist coinminer domain
 b.pool.gq,domainlist coinminer domain
 b.proxy4.nullrefexcep.com,domainlist coinminer domain
 b.suprnova.cc,domainlist coinminer domain
@@ -963,6 +972,7 @@ bch-bj-prod.poolin.com,domainlist coinminer domain
 bch-bj.ss.poolin.com,domainlist coinminer domain
 bch-chain-vip-bj.api.btc.com,domainlist coinminer domain
 bch-chain.api.btc.com,domainlist coinminer domain
+bch-cn.svpool.com,domainlist coinminer domain
 bch-recovery.btc.com,domainlist coinminer domain
 bch-tchain.api.btc.com,domainlist coinminer domain
 bch-tipbot.btc.com,domainlist coinminer domain
@@ -974,8 +984,13 @@ bch.pool.mn,domainlist coinminer domain
 bch.s.dpool.top,domainlist coinminer domain
 bch.ss.poolin.com,domainlist coinminer domain
 bch.suprnova.cc,domainlist coinminer domain
+bch.svpool.com,domainlist coinminer domain
 bch.viabtc.com,domainlist coinminer domain
 bch.waterhole.io,domainlist coinminer domain
+bci-asia.coinblockers.com,domainlist coinminer domain
+bci-eu.coinblockers.com,domainlist coinminer domain
+bci-us.coinblockers.com,domainlist coinminer domain
+bci.coinblockers.com,domainlist coinminer domain
 bci.fairhash.org,domainlist coinminer domain
 bci.luckypool.io,domainlist coinminer domain
 bci.suprnova.cc,domainlist coinminer domain
@@ -1272,7 +1287,6 @@ bizoninvest.com,domainlist coinminer domain
 bjorksta.men,domainlist coinminer domain
 bkc.superpools.online,domainlist coinminer domain
 bkc.youpool.io,domainlist coinminer domain
-black-js.github.io,domainlist coinminer domain
 black-pool.net,domainlist coinminer domain
 black.suprnova.cc,domainlist coinminer domain
 blackdragon.leetpools.net,domainlist coinminer domain
@@ -1346,6 +1360,7 @@ blocks.z.cash,domainlist coinminer domain
 blocks2.btgpool.pro,domainlist coinminer domain
 blocks3.btgpool.pro,domainlist coinminer domain
 blocks4.btgpool.pro,domainlist coinminer domain
+blog.connectbtc.com,domainlist coinminer domain
 blog.f2pool.com,domainlist coinminer domain
 blog.luckypool.io,domainlist coinminer domain
 blog.poolin.com,domainlist coinminer domain
@@ -1355,7 +1370,6 @@ blood.suprnova.cc,domainlist coinminer domain
 blox.minexmr.com,domainlist coinminer domain
 blox.supportxmr.com,domainlist coinminer domain
 bltz.pool.mn,domainlist coinminer domain
-blue-js.github.io,domainlist coinminer domain
 bluematt.me,domainlist coinminer domain
 blunt.suprnova.cc,domainlist coinminer domain
 blus.suprnova.cc,domainlist coinminer domain
@@ -1460,9 +1474,11 @@ bsm.youpool.io,domainlist coinminer domain
 bst.pool.mn,domainlist coinminer domain
 bsty.suprnova.cc,domainlist coinminer domain
 bsv-chain.api.btc.com,domainlist coinminer domain
+bsv-cn.svpool.com,domainlist coinminer domain
 bsv-recovery.btc.com,domainlist coinminer domain
 bsv.btc.com,domainlist coinminer domain
 bsv.s.dpool.top,domainlist coinminer domain
+bsv.svpool.com,domainlist coinminer domain
 bsyauqwerd.party,domainlist coinminer domain
 bt.hashhot.com,domainlist coinminer domain
 bt.pool.mn,domainlist coinminer domain
@@ -1533,6 +1549,7 @@ btcnos.com,domainlist coinminer domain
 btcp-api.suprnova.cc,domainlist coinminer domain
 btcp-eu.coinblockers.com,domainlist coinminer domain
 btcp-pool.pickaxe.pro,domainlist coinminer domain
+btcp-us.coinblockers.com,domainlist coinminer domain
 btcp.2miners.com,domainlist coinminer domain
 btcp.altpool.pro,domainlist coinminer domain
 btcp.cloudpools.net,domainlist coinminer domain
@@ -1558,6 +1575,7 @@ btcquestion.btc.com,domainlist coinminer domain
 btcu.suprnova.cc,domainlist coinminer domain
 btcz-api.suprnova.cc,domainlist coinminer domain
 btcz-eu.coinblockers.com,domainlist coinminer domain
+btcz-us.coinblockers.com,domainlist coinminer domain
 btcz.2miners.com,domainlist coinminer domain
 btcz.altpool.pro,domainlist coinminer domain
 btcz.coinblockers.com,domainlist coinminer domain
@@ -1570,12 +1588,16 @@ btcz.suprnova.cc,domainlist coinminer domain
 btczpool.com,domainlist coinminer domain
 btg-api-2.suprnova.cc,domainlist coinminer domain
 btg-api.suprnova.cc,domainlist coinminer domain
+btg-asia.coinblockers.com,domainlist coinminer domain
+btg-eu.coinblockers.com,domainlist coinminer domain
 btg-recovery.btc.com,domainlist coinminer domain
+btg-us.coinblockers.com,domainlist coinminer domain
 btg.2miners.com,domainlist coinminer domain
 btg.2miners.ru,domainlist coinminer domain
 btg.altpool.pro,domainlist coinminer domain
 btg.bcmonster.com,domainlist coinminer domain
 btg.cloudpools.net,domainlist coinminer domain
+btg.coinblockers.com,domainlist coinminer domain
 btg.dev.2miners.com,domainlist coinminer domain
 btg.dnsseed.minertopia.org,domainlist coinminer domain
 btg.eqpool.cash,domainlist coinminer domain
@@ -1709,6 +1731,7 @@ captain.noblock.pro,domainlist coinminer domain
 captain2.directprimal.com,domainlist coinminer domain
 captchas.freebitco.in,domainlist coinminer domain
 card.btc.com,domainlist coinminer domain
+cards-dev.connectbtc.com,domainlist coinminer domain
 carrel.services,domainlist coinminer domain
 carry.myeffect.net,domainlist coinminer domain
 carsi.suprnova.cc,domainlist coinminer domain
@@ -1802,6 +1825,7 @@ central-pool.minemonero.pro,domainlist coinminer domain
 central1.profithash.com,domainlist coinminer domain
 centralcavern.uk,domainlist coinminer domain
 certificates.freecontent.win,domainlist coinminer domain
+certification.connectbtc.com,domainlist coinminer domain
 cesc.pool.mn,domainlist coinminer domain
 ceti.suprnova.cc,domainlist coinminer domain
 cf-protected-coinye.netcodepool.org,domainlist coinminer domain
@@ -1810,6 +1834,7 @@ cf-protected-ltc.netcodepool.org,domainlist coinminer domain
 cf-protected-rpc.netcodepool.org,domainlist coinminer domain
 cf-protected.clona.ru,domainlist coinminer domain
 cf-ssl52115-protected-www.netcodepool.org,domainlist coinminer domain
+cf-test.svpool.com,domainlist coinminer domain
 cf.suprnova.cc,domainlist coinminer domain
 cfcd.duckdns.org,domainlist coinminer domain
 cfcdist.gdn,domainlist coinminer domain
@@ -1841,10 +1866,12 @@ chat.pool.mn,domainlist coinminer domain
 chatbox.btcc.com,domainlist coinminer domain
 chc.pool.mn,domainlist coinminer domain
 chc.suprnova.cc,domainlist coinminer domain
+chd-origin-history-1.connectbtc.com,domainlist coinminer domain
 check.suprnova.cc,domainlist coinminer domain
 checkcoin.miningpoolhub.com,domainlist coinminer domain
 checkout.iqmining.com,domainlist coinminer domain
 cheese.minertopia.org,domainlist coinminer domain
+chef.connectbtc.com,domainlist coinminer domain
 chekazpools.com,domainlist coinminer domain
 chem.suprnova.cc,domainlist coinminer domain
 chicago.aeon.hashvault.pro,domainlist coinminer domain
@@ -1894,6 +1921,7 @@ cif.coin-miners.info,domainlist coinminer domain
 cin.hash-to-coins.com,domainlist coinminer domain
 cip.clona.ru,domainlist coinminer domain
 cirkev.bitcoin.cz,domainlist coinminer domain
+cisco.connectbtc.com,domainlist coinminer domain
 citadel.herominers.com,domainlist coinminer domain
 citicash.fairhash.org,domainlist coinminer domain
 citicash.herominers.com,domainlist coinminer domain
@@ -1921,6 +1949,7 @@ clickwith.date,domainlist coinminer domain
 client.iqmining.com,domainlist coinminer domain
 clients.moneropro.com,domainlist coinminer domain
 cliggi.download,domainlist coinminer domain
+cln-cbr.connectbtc.com,domainlist coinminer domain
 cln.pool.mn,domainlist coinminer domain
 clo.2miners.com,domainlist coinminer domain
 clo.altpool.pro,domainlist coinminer domain
@@ -1966,11 +1995,13 @@ cm1.xmrminingproxy.com,domainlist coinminer domain
 cmd.nanopool.org,domainlist coinminer domain
 cme.pool.mn,domainlist coinminer domain
 cmm-eu.coinblockers.com,domainlist coinminer domain
+cmm-us.coinblockers.com,domainlist coinminer domain
 cmm.coinblockers.com,domainlist coinminer domain
 cmm.lambomoon.club,domainlist coinminer domain
 cmm.vpool.io,domainlist coinminer domain
 cmr-eu1.nanopool.org,domainlist coinminer domain
 cms.btcchina.com,domainlist coinminer domain
+cmt3.connectbtc.com,domainlist coinminer domain
 cn-bcc.ss.btc.com,domainlist coinminer domain
 cn-bccpool.api.btc.com,domainlist coinminer domain
 cn-bccpoolapp.api.btc.com,domainlist coinminer domain
@@ -2033,6 +2064,7 @@ cncoin.farm,domainlist coinminer domain
 cnd.suprnova.cc,domainlist coinminer domain
 cndhit.xyz,domainlist coinminer domain
 cnhv.co,domainlist coinminer domain
+cnnpressroom.connectbtc.com,domainlist coinminer domain
 cnt.coin-miners.info,domainlist coinminer domain
 cnt.statistic.date,domainlist coinminer domain
 cnwww.btcc.com,domainlist coinminer domain
@@ -2535,6 +2567,7 @@ dc.deltapool.net,domainlist coinminer domain
 dc.pool.mn,domainlist coinminer domain
 dcc.suprnova.cc,domainlist coinminer domain
 dcd.suprnova.cc,domainlist coinminer domain
+dcpan.connectbtc.com,domainlist coinminer domain
 dcr-api.suprnova.cc,domainlist coinminer domain
 dcr-as.coinmine.pl,domainlist coinminer domain
 dcr-bj-prod.poolin.com,domainlist coinminer domain
@@ -2702,6 +2735,7 @@ dev6.nanopool.org,domainlist coinminer domain
 dev8.cryptomininggame.com,domainlist coinminer domain
 devappgrant.space,domainlist coinminer domain
 devbtcapp.api.btc.com,domainlist coinminer domain
+devbuilds.connectbtc.com,domainlist coinminer domain
 devchain.btc.com,domainlist coinminer domain
 devel.nicehash.com,domainlist coinminer domain
 developer-bch-tchain.api.btc.com,domainlist coinminer domain
@@ -2909,6 +2943,7 @@ down.my0709.xyz,domainlist coinminer domain
 down.mys2016.info,domainlist coinminer domain
 down.oo000oo.club,domainlist coinminer domain
 download-endpoint.minergate.com,domainlist coinminer domain
+download.connectbtc.com,domainlist coinminer domain
 download.gridcoin.us,domainlist coinminer domain
 download.minergate.com,domainlist coinminer domain
 download.nanopool.org,domainlist coinminer domain
@@ -2986,7 +3021,6 @@ dxmhkisurxxxhm.ru,domainlist coinminer domain
 dyn.spacepools.org,domainlist coinminer domain
 dyn.suprnova.cc,domainlist coinminer domain
 dyn1.nanopool.org,domainlist coinminer domain
-dynya-may.github.io,domainlist coinminer domain
 dzizsih.ru,domainlist coinminer domain
 e.nanopool.org,domainlist coinminer domain
 e0.nanopool.org,domainlist coinminer domain
@@ -3649,6 +3683,7 @@ eu.eclipsemc.com,domainlist coinminer domain
 eu.etcmine.pro,domainlist coinminer domain
 eu.expmine.pro,domainlist coinminer domain
 eu.geekcash.org,domainlist coinminer domain
+eu.geo.pirlpool.eu,domainlist coinminer domain
 eu.happysatoshi.com,domainlist coinminer domain
 eu.hatevery.info,domainlist coinminer domain
 eu.hushmine.pro,domainlist coinminer domain
@@ -4228,6 +4263,7 @@ frontend01.coinmine.pl,domainlist coinminer domain
 frontend02.coinmine.pl,domainlist coinminer domain
 frost.suprnova.cc,domainlist coinminer domain
 fruitice.realnetwrk.com,domainlist coinminer domain
+fs.connectbtc.com,domainlist coinminer domain
 fs.nanopool.org,domainlist coinminer domain
 fsc.pool.mn,domainlist coinminer domain
 fsc2.suprnova.cc,domainlist coinminer domain
@@ -4447,6 +4483,7 @@ give.hashhot.com,domainlist coinminer domain
 givecoin.miningpoolhub.com,domainlist coinminer domain
 gizmo.suprnova.cc,domainlist coinminer domain
 glad.universalpool.net,domainlist coinminer domain
+glb.geo.pirlpool.eu,domainlist coinminer domain
 glb.suprnova.cc,domainlist coinminer domain
 glc-functest.qubtc.com,domainlist coinminer domain
 gld.mastermining.net,domainlist coinminer domain
@@ -4508,6 +4545,7 @@ goxmrminer.com,domainlist coinminer domain
 gpu.pool.mn,domainlist coinminer domain
 gpu.suprnova.cc,domainlist coinminer domain
 gpumining.cc,domainlist coinminer domain
+gr.connectbtc.com,domainlist coinminer domain
 gr.minergate.com,domainlist coinminer domain
 gra.pool.mn,domainlist coinminer domain
 grafana.crypto-daio.co.uk,domainlist coinminer domain
@@ -4582,6 +4620,7 @@ grlc.suprnova.cc,domainlist coinminer domain
 grmemcache.gigarho.com,domainlist coinminer domain
 groestl.mine.zpool.ca,domainlist coinminer domain
 groestlcoin.miningpoolhub.com,domainlist coinminer domain
+groups.connectbtc.com,domainlist coinminer domain
 grow.suprnova.cc,domainlist coinminer domain
 grp.pool.mn,domainlist coinminer domain
 grs.mining4.co.uk,domainlist coinminer domain
@@ -4831,6 +4870,7 @@ hostmaster.ethertrench.com,domainlist coinminer domain
 hostmaster.ethosdistro.com,domainlist coinminer domain
 hostmaster.flashpool.club,domainlist coinminer domain
 hostmaster.hashluck.net,domainlist coinminer domain
+hostmaster.svpool.com,domainlist coinminer domain
 hostuseast.alpereum.ch,domainlist coinminer domain
 hot.wemineltc.com,domainlist coinminer domain
 hotelbyte.coin-miners.info,domainlist coinminer domain
@@ -4858,6 +4898,7 @@ huiwiw.hit.gemius.pl,domainlist coinminer domain
 hund.suprnova.cc,domainlist coinminer domain
 huscav.ethosdistro.com,domainlist coinminer domain
 hush-eu.coinblockers.com,domainlist coinminer domain
+hush-us.coinblockers.com,domainlist coinminer domain
 hush.2miners.com,domainlist coinminer domain
 hush.2miners.ru,domainlist coinminer domain
 hush.altpool.pro,domainlist coinminer domain
@@ -4947,6 +4988,7 @@ imap.cocozuma.net,domainlist coinminer domain
 imap.lightninghash.com,domainlist coinminer domain
 imap.miningmania.net,domainlist coinminer domain
 imap.pool.sexy,domainlist coinminer domain
+imaps.connectbtc.com,domainlist coinminer domain
 img.jsecoin.com,domainlist coinminer domain
 img.namunil.com,domainlist coinminer domain
 imhvlhaelvvbrq.ru,domainlist coinminer domain
@@ -5297,6 +5339,7 @@ kickass.cd,domainlist coinminer domain
 killallasics.moneroworld.com,domainlist coinminer domain
 kilr.lightninghash.com,domainlist coinminer domain
 kindle.cryptobrowser.site,domainlist coinminer domain
+kindleformac.connectbtc.com,domainlist coinminer domain
 kindleformac.cryptomininggame.com,domainlist coinminer domain
 king.suprnova.cc,domainlist coinminer domain
 kingbtc.co,domainlist coinminer domain
@@ -5312,7 +5355,9 @@ kiwifarms.net,domainlist coinminer domain
 kiwiminers.com,domainlist coinminer domain
 kjli.fi,domainlist coinminer domain
 kkxmofkrykox.netcodepool.org,domainlist coinminer domain
+kmd-asia.coinblockers.com,domainlist coinminer domain
 kmd-eu.coinblockers.com,domainlist coinminer domain
+kmd-us.coinblockers.com,domainlist coinminer domain
 kmd.altpool.pro,domainlist coinminer domain
 kmd.bcmonster.com,domainlist coinminer domain
 kmd.cloudpools.net,domainlist coinminer domain
@@ -5322,6 +5367,7 @@ kmd.eqpool.cash,domainlist coinminer domain
 kmd.suprnova.cc,domainlist coinminer domain
 knet.kosmoplovci.org,domainlist coinminer domain
 ko.clona.ru,domainlist coinminer domain
+ko.connectbtc.com,domainlist coinminer domain
 ko.minergate.com,domainlist coinminer domain
 kobo.suprnova.cc,domainlist coinminer domain
 kobocoin.miningpoolhub.com,domainlist coinminer domain
@@ -5343,6 +5389,7 @@ korea02.mibpool.com,domainlist coinminer domain
 korea03.mibpool.com,domainlist coinminer domain
 korea04.mibpool.com,domainlist coinminer domain
 kosmoplovci.org,domainlist coinminer domain
+koto-pool.work,domainlist coinminer domain
 koto.litepool.ru,domainlist coinminer domain
 kr.bitclub.network,domainlist coinminer domain
 kr.sparkpool.com,domainlist coinminer domain
@@ -5426,6 +5473,7 @@ lbc-eu.coinmine.pl,domainlist coinminer domain
 lbc.coinmine.pl,domainlist coinminer domain
 lbc.nanopool.org,domainlist coinminer domain
 lbc.pool.mn,domainlist coinminer domain
+lbe.geo.pirlpool.eu,domainlist coinminer domain
 lbit.youpool.io,domainlist coinminer domain
 lbr.nanopool.org,domainlist coinminer domain
 lbr.pool.mn,domainlist coinminer domain
@@ -5566,6 +5614,7 @@ local.minandoando.com,domainlist coinminer domain
 localhost.miningspeed.com,domainlist coinminer domain
 localhost.moneroworld.com,domainlist coinminer domain
 localhost.sipa.be,domainlist coinminer domain
+localregister.connectbtc.com,domainlist coinminer domain
 lochjol.com,domainlist coinminer domain
 locize.res.ethfans.org,domainlist coinminer domain
 lock.pool.mn,domainlist coinminer domain
@@ -5664,6 +5713,7 @@ ltc.give-me-coins.com,domainlist coinminer domain
 ltc.hashing.space,domainlist coinminer domain
 ltc.mastermining.net,domainlist coinminer domain
 ltc.netcodepool.org,domainlist coinminer domain
+ltc.p2pmining.com,domainlist coinminer domain
 ltc.p2pool.io,domainlist coinminer domain
 ltc.pool.minergate.com,domainlist coinminer domain
 ltc.pool.mn,domainlist coinminer domain
@@ -5814,6 +5864,7 @@ mall.viabtc.com,domainlist coinminer domain
 mamm.pool.mn,domainlist coinminer domain
 man.luckypool.io,domainlist coinminer domain
 mana.suprnova.cc,domainlist coinminer domain
+manage-ds.connectbtc.com,domainlist coinminer domain
 manage.cluster.ipbc.io,domainlist coinminer domain
 manero.miners.pro,domainlist coinminer domain
 manila-1.xmrpool.net,domainlist coinminer domain
@@ -5872,7 +5923,7 @@ max.suprnova.cc,domainlist coinminer domain
 max.thecoin.pw,domainlist coinminer domain
 maxcoin.miningpoolhub.com,domainlist coinminer domain
 maxhash.org,domainlist coinminer domain
-may-js.github.io,domainlist coinminer domain
+maxine-sg.coinblockers.com,domainlist coinminer domain
 maz.thecoin.pw,domainlist coinminer domain
 maza.suprnova.cc,domainlist coinminer domain
 maza.thecoin.pw,domainlist coinminer domain
@@ -5880,6 +5931,7 @@ mazacoin.securepayment.cc,domainlist coinminer domain
 mazacoin.thecoin.pw,domainlist coinminer domain
 maze.suprnova.cc,domainlist coinminer domain
 maze.youpool.io,domainlist coinminer domain
+mb.connectbtc.com,domainlist coinminer domain
 mbch.btc.com,domainlist coinminer domain
 mbkpool.info,domainlist coinminer domain
 mc-eu.maxhash.org,domainlist coinminer domain
@@ -5961,6 +6013,7 @@ milk.btgpool.pro,domainlist coinminer domain
 mimi.universalpool.net,domainlist coinminer domain
 mimk97.ethosdistro.com,domainlist coinminer domain
 min.btcpool24.com,domainlist coinminer domain
+min.connectbtc.com,domainlist coinminer domain
 min.hashhot.com,domainlist coinminer domain
 min.imageflux.cf,domainlist coinminer domain
 min1.coinmine.pl,domainlist coinminer domain
@@ -6409,6 +6462,7 @@ mr.bandaomodel.com,domainlist coinminer domain
 mr.crypto-pool.fr,domainlist coinminer domain
 mr01.miningrigrentals.com,domainlist coinminer domain
 mr02.miningrigrentals.com,domainlist coinminer domain
+mran.connectbtc.com,domainlist coinminer domain
 mrb.pool.mn,domainlist coinminer domain
 mrb.suprnova.cc,domainlist coinminer domain
 mrc.luckypool.io,domainlist coinminer domain
@@ -6435,6 +6489,7 @@ msr.semipool.com,domainlist coinminer domain
 msr.soyminero.es,domainlist coinminer domain
 msr2.arhash.xyz,domainlist coinminer domain
 mssql.nanopool.org,domainlist coinminer domain
+mta10.connectbtc.com,domainlist coinminer domain
 mta2.alpereum.ch,domainlist coinminer domain
 mta21.cryptobrowser.site,domainlist coinminer domain
 mta40.nanopool.org,domainlist coinminer domain
@@ -6443,6 +6498,7 @@ mta9.cryptomininggame.com,domainlist coinminer domain
 mtc.pool.mn,domainlist coinminer domain
 mtchain.btc.com,domainlist coinminer domain
 mth.semipool.com,domainlist coinminer domain
+mtips.arhash.xyz,domainlist coinminer domain
 mtp101.minertopia.org,domainlist coinminer domain
 mtr.suprnova.cc,domainlist coinminer domain
 mtred.com,domainlist coinminer domain
@@ -6543,7 +6599,6 @@ mycelium.com,domainlist coinminer domain
 mychainpools.com,domainlist coinminer domain
 mychefstable.clona.ru,domainlist coinminer domain
 mycoinwallet.net,domainlist coinminer domain
-mycrypto.com,domainlist coinminer domain
 mycryptopool.info,domainlist coinminer domain
 mycryrpto.com,domainlist coinminer domain
 myeherwalliet.com,domainlist coinminer domain
@@ -6939,6 +6994,7 @@ npdaqy6x1j.me,domainlist coinminer domain
 npot.ethosdistro.com,domainlist coinminer domain
 nrb.coinmine.pl,domainlist coinminer domain
 nrn.suprnova.cc,domainlist coinminer domain
+ns-1.connectbtc.com,domainlist coinminer domain
 ns-eu-01.coinmine.pl,domainlist coinminer domain
 ns-eu-02.coinmine.pl,domainlist coinminer domain
 ns-eu-03.coinmine.pl,domainlist coinminer domain
@@ -6993,10 +7049,12 @@ ns1.minecraftpool.com,domainlist coinminer domain
 ns1.minerhills.com,domainlist coinminer domain
 ns1.mutuza.win,domainlist coinminer domain
 ns1.node.dc1.hashfor.cash,domainlist coinminer domain
+ns1.p2pmining.com,domainlist coinminer domain
 ns1.poolto.be,domainlist coinminer domain
 ns1.pushiplay.pw,domainlist coinminer domain
 ns1.shscrypto.net,domainlist coinminer domain
 ns1.superpool.win,domainlist coinminer domain
+ns1.svpool.com,domainlist coinminer domain
 ns1.unipool.pro,domainlist coinminer domain
 ns1.webmining.co,domainlist coinminer domain
 ns1.wemineltc.com,domainlist coinminer domain
@@ -7020,6 +7078,8 @@ ns2.minecraftpool.com,domainlist coinminer domain
 ns2.minerhills.com,domainlist coinminer domain
 ns2.mutuza.win,domainlist coinminer domain
 ns2.nanopool.org,domainlist coinminer domain
+ns2.p2pmining.com,domainlist coinminer domain
+ns2.svpool.com,domainlist coinminer domain
 ns2.unipool.pro,domainlist coinminer domain
 ns2.webcoin.us,domainlist coinminer domain
 ns2.webmining.co,domainlist coinminer domain
@@ -7028,6 +7088,7 @@ ns21.hashvault.pro,domainlist coinminer domain
 ns21.minemonero.pro,domainlist coinminer domain
 ns2alt.poloniex.com,domainlist coinminer domain
 ns3.bitnodes.io,domainlist coinminer domain
+ns3.p2pmining.com,domainlist coinminer domain
 ns3.webchain.network,domainlist coinminer domain
 ns31.hashvault.pro,domainlist coinminer domain
 ns31.minemonero.pro,domainlist coinminer domain
@@ -7038,6 +7099,7 @@ ns41.hashvault.pro,domainlist coinminer domain
 ns41.minemonero.pro,domainlist coinminer domain
 ns4alt.poloniex.com,domainlist coinminer domain
 ns5.bitnodes.io,domainlist coinminer domain
+ns5.connectbtc.com,domainlist coinminer domain
 ns51.hashvault.pro,domainlist coinminer domain
 ns51.minemonero.pro,domainlist coinminer domain
 ns61.hashvault.pro,domainlist coinminer domain
@@ -7195,7 +7257,6 @@ omine.org,domainlist coinminer domain
 on.animeteatr.ru,domainlist coinminer domain
 ona.suprnova.cc,domainlist coinminer domain
 onc.coinmine.pl,domainlist coinminer domain
-one-jj.github.io,domainlist coinminer domain
 one.hashhot.com,domainlist coinminer domain
 one.suprnova.cc,domainlist coinminer domain
 oneevilcoin.miner.center,domainlist coinminer domain
@@ -7236,6 +7297,7 @@ orb.lightspeedmining.com,domainlist coinminer domain
 orb.smartmining.net,domainlist coinminer domain
 orb.stratum.smartmining.net,domainlist coinminer domain
 orig.ethosdistro.com,domainlist coinminer domain
+orion.connectbtc.com,domainlist coinminer domain
 orion.extremepool.org,domainlist coinminer domain
 orly.suprnova.cc,domainlist coinminer domain
 ortho.suprnova.cc,domainlist coinminer domain
@@ -7438,6 +7500,7 @@ pay.secumine.net,domainlist coinminer domain
 pay.suprnova.cc,domainlist coinminer domain
 payer.suprnova.cc,domainlist coinminer domain
 paymentblog.coincheck.com,domainlist coinminer domain
+payments-de.connectbtc.com,domainlist coinminer domain
 payments.changelly.com,domainlist coinminer domain
 payments.hashflare.io,domainlist coinminer domain
 payout.asicpool.info,domainlist coinminer domain
@@ -7672,6 +7735,7 @@ poczta.cocozuma.net,domainlist coinminer domain
 poczta.coinotron.com,domainlist coinminer domain
 poczta.miningmania.net,domainlist coinminer domain
 pod.majorminers.com,domainlist coinminer domain
+podcastsconnect.connectbtc.com,domainlist coinminer domain
 podrltid.info,domainlist coinminer domain
 poker.qp.si,domainlist coinminer domain
 polis.coin-miners.info,domainlist coinminer domain
@@ -7862,6 +7926,7 @@ pool.nimiq.watch,domainlist coinminer domain
 pool.nimiqchain.info,domainlist coinminer domain
 pool.nocroom.com,domainlist coinminer domain
 pool.norgzpool.net.au,domainlist coinminer domain
+pool.p2pmining.com,domainlist coinminer domain
 pool.paycoinalt.com,domainlist coinminer domain
 pool.pcmining.xyz,domainlist coinminer domain
 pool.pk.easyhash.pro,domainlist coinminer domain
@@ -7893,6 +7958,7 @@ pool.sumokoin.com,domainlist coinminer domain
 pool.sumokoin.hashvault.pro,domainlist coinminer domain
 pool.supportaeon.com,domainlist coinminer domain
 pool.supportxmr.com,domainlist coinminer domain
+pool.svpool.com,domainlist coinminer domain
 pool.trtl.semipool.com,domainlist coinminer domain
 pool.trtl.unipool.pro,domainlist coinminer domain
 pool.tube.fairhash.org,domainlist coinminer domain
@@ -7997,6 +8063,7 @@ portal.minerpool.net,domainlist coinminer domain
 pos.cryptobrowser.site,domainlist coinminer domain
 pos.pool.mn,domainlist coinminer domain
 pose.suprnova.cc,domainlist coinminer domain
+posta.connectbtc.com,domainlist coinminer domain
 posthash.org,domainlist coinminer domain
 postmaster.poolto.be,domainlist coinminer domain
 pot.pool.mn,domainlist coinminer domain
@@ -8323,7 +8390,6 @@ rebase.aeonminingpool.com,domainlist coinminer domain
 recoal.herominers.com,domainlist coinminer domain
 recovery.btc.com,domainlist coinminer domain
 recycloped.com,domainlist coinminer domain
-red-js.github.io,domainlist coinminer domain
 red1r.xyz,domainlist coinminer domain
 red1r2.xyz,domainlist coinminer domain
 red8.mtred.com,domainlist coinminer domain
@@ -8334,6 +8400,7 @@ refresh-js.bitbucket.io,domainlist coinminer domain
 refreshnerer27.info,domainlist coinminer domain
 refreshnerer27rb.info,domainlist coinminer domain
 refunevent.com,domainlist coinminer domain
+register.connectbtc.com,domainlist coinminer domain
 registry.service.hashfor.cash,domainlist coinminer domain
 registry.staging-eu-west.cryptopay.me,domainlist coinminer domain
 reklama.webchain.network,domainlist coinminer domain
@@ -8418,6 +8485,7 @@ rosa.ethosdistro.com,domainlist coinminer domain
 rot.ron.si,domainlist coinminer domain
 roto.pool.mn,domainlist coinminer domain
 rottenwhorememe.cf,domainlist coinminer domain
+router.connectbtc.com,domainlist coinminer domain
 rove.cl,domainlist coinminer domain
 rowherthat.ru,domainlist coinminer domain
 rox.pool.mn,domainlist coinminer domain
@@ -8466,10 +8534,17 @@ rus.pool.gold,domainlist coinminer domain
 rusdtfuture.58coin.com,domainlist coinminer domain
 ruvuryua.ru,domainlist coinminer domain
 rvn-api.suprnova.cc,domainlist coinminer domain
+rvn-asia.coinblockers.com,domainlist coinminer domain
+rvn-eu.coinblockers.com,domainlist coinminer domain
+rvn-eu2.coinblockers.com,domainlist coinminer domain
+rvn-solo.coinblockers.com,domainlist coinminer domain
+rvn-us.coinblockers.com,domainlist coinminer domain
 rvn.bitpoolmining.com,domainlist coinminer domain
+rvn.coinblockers.com,domainlist coinminer domain
 rvn.rapidpools.com,domainlist coinminer domain
 rvn.suprnova.cc,domainlist coinminer domain
 rvn.uleypool.com,domainlist coinminer domain
+rvnsolo-eu.coinblockers.com,domainlist coinminer domain
 ry.suprnova.cc,domainlist coinminer domain
 ryfm.ethosdistro.com,domainlist coinminer domain
 ryo.bohemianpool.com,domainlist coinminer domain
@@ -8572,7 +8647,9 @@ s7ven.com,domainlist coinminer domain
 s9pool.com,domainlist coinminer domain
 sa.monerise.com,domainlist coinminer domain
 saas.webmine.pro,domainlist coinminer domain
+safe-eu.coinblockers.com,domainlist coinminer domain
 safe-hub.miningpoolhub.com,domainlist coinminer domain
+safe.coinblockers.com,domainlist coinminer domain
 safe.pool.sexy,domainlist coinminer domain
 safebrowsing.cryptobrowser.site,domainlist coinminer domain
 safecash.luckypool.io,domainlist coinminer domain
@@ -8590,6 +8667,7 @@ sales.genesis-mining.com,domainlist coinminer domain
 salomon.styx.net.pl,domainlist coinminer domain
 samgo1.ethosdistro.com,domainlist coinminer domain
 sandbox-pushtx.btc.com,domainlist coinminer domain
+sandbox.arhash.xyz,domainlist coinminer domain
 sandbox.bixin.com,domainlist coinminer domain
 sandbox.coinbase.com,domainlist coinminer domain
 sandbox.exchange.coinbase.com,domainlist coinminer domain
@@ -8683,6 +8761,7 @@ sdp.pool.mn,domainlist coinminer domain
 se.minergate.com,domainlist coinminer domain
 se.webchain.network,domainlist coinminer domain
 se2.kano.is,domainlist coinminer domain
+sea.connectbtc.com,domainlist coinminer domain
 sea.cryptaloot.pro,domainlist coinminer domain
 sea.cryptoloot.pro,domainlist coinminer domain
 sea.directprimal.com,domainlist coinminer domain
@@ -8719,6 +8798,7 @@ secnode8.miningspeed.com,domainlist coinminer domain
 secnode9.miningspeed.com,domainlist coinminer domain
 secretbeta.bitcoin.com,domainlist coinminer domain
 secumine.net,domainlist coinminer domain
+secure.connectbtc.com,domainlist coinminer domain
 secure.cryptominer.net,domainlist coinminer domain
 secure.iqmining.com,domainlist coinminer domain
 secure.mbkpool.info,domainlist coinminer domain
@@ -8815,6 +8895,7 @@ setup.nanopool.org,domainlist coinminer domain
 sexcoin.miningpoolhub.com,domainlist coinminer domain
 seyton.ethosdistro.com,domainlist coinminer domain
 sfc.suprnova.cc,domainlist coinminer domain
+sfe-eu.coinblockers.com,domainlist coinminer domain
 sfo1.stratum.viaxmr.com,domainlist coinminer domain
 sftp.monerominers.net,domainlist coinminer domain
 sg.bitclub.network,domainlist coinminer domain
@@ -9535,6 +9616,7 @@ stratum.chainworksindustries.com,domainlist coinminer domain
 stratum.ckpool.org,domainlist coinminer domain
 stratum.coin-miners.info,domainlist coinminer domain
 stratum.coinspool.cu.cc,domainlist coinminer domain
+stratum.connectbtc.com,domainlist coinminer domain
 stratum.deltapool.net,domainlist coinminer domain
 stratum.dmdpool.net,domainlist coinminer domain
 stratum.eu.bitcoin.cz,domainlist coinminer domain
@@ -9693,6 +9775,7 @@ supportaeon.com,domainlist coinminer domain
 supporttickets.prohashing.com,domainlist coinminer domain
 supportxmr.com,domainlist coinminer domain
 suprnova.cc,domainlist coinminer domain
+suqa.coinblockers.com,domainlist coinminer domain
 suqa.f2pool.com,domainlist coinminer domain
 surge.lightninghash.com,domainlist coinminer domain
 surge.suprnova.cc,domainlist coinminer domain
@@ -9703,6 +9786,7 @@ sv1.kano.is,domainlist coinminer domain
 svb.suprnova.cc,domainlist coinminer domain
 svivqrhrh.ru,domainlist coinminer domain
 svn.nicehash.com,domainlist coinminer domain
+svpool.com,domainlist coinminer domain
 svr.pool.mn,domainlist coinminer domain
 sw1.nanopool.org,domainlist coinminer domain
 swag.pool.mn,domainlist coinminer domain
@@ -9741,6 +9825,7 @@ sydney.minemonero.pro,domainlist coinminer domain
 sydney.monero.hashvault.pro,domainlist coinminer domain
 sydney01.minemonero.pro,domainlist coinminer domain
 sydney01.monero.hashvault.pro,domainlist coinminer domain
+symccloud.connectbtc.com,domainlist coinminer domain
 syn.suprnova.cc,domainlist coinminer domain
 sync.hashhot.com,domainlist coinminer domain
 sync.nanopool.org,domainlist coinminer domain
@@ -9749,6 +9834,7 @@ synconnector.com,domainlist coinminer domain
 synx.suprnova.cc,domainlist coinminer domain
 sys.poolto.be,domainlist coinminer domain
 sys.suprnova.cc,domainlist coinminer domain
+system.connectbtc.com,domainlist coinminer domain
 systemlog.host,domainlist coinminer domain
 sz-bcc.ss.btc.com,domainlist coinminer domain
 sz-bccpool.api.btc.com,domainlist coinminer domain
@@ -9981,7 +10067,6 @@ thewise.com,domainlist coinminer domain
 thirdlight.dynalias.com,domainlist coinminer domain
 thor.nanopool.org,domainlist coinminer domain
 thread.multiminerapp.com,domainlist coinminer domain
-three-jj.github.io,domainlist coinminer domain
 thx113.ethosdistro.com,domainlist coinminer domain
 ticker.viabtc.com,domainlist coinminer domain
 tickets.jonasschnelli.ch,domainlist coinminer domain
@@ -10142,7 +10227,6 @@ twe.suprnova.cc,domainlist coinminer domain
 twiki.btc.com,domainlist coinminer domain
 twilight.2miners.com,domainlist coinminer domain
 twlv.suprnova.cc,domainlist coinminer domain
-two-jj.github.io,domainlist coinminer domain
 tws.suprnova.cc,domainlist coinminer domain
 tx.suprnova.cc,domainlist coinminer domain
 tyc-1.gonspool.com,domainlist coinminer domain
@@ -10157,6 +10241,7 @@ tycheus.youpool.io,domainlist coinminer domain
 tyrone.ethosdistro.com,domainlist coinminer domain
 tzc.nanopool.org,domainlist coinminer domain
 tzc.suprnova.cc,domainlist coinminer domain
+u.connectbtc.com,domainlist coinminer domain
 u.forre.st,domainlist coinminer domain
 u002fhash.58coin.com,domainlist coinminer domain
 uae.hashhot.com,domainlist coinminer domain
@@ -10238,7 +10323,9 @@ ultrboocrybbr.extremepool.org,domainlist coinminer domain
 umbtc.lightninghash.com,domainlist coinminer domain
 un.coinmine.pl,domainlist coinminer domain
 unains1748.com,domainlist coinminer domain
+unauthorized.arhash.xyz,domainlist coinminer domain
 unauthorized.loudmining.com,domainlist coinminer domain
+unauthorized.minerpool.net,domainlist coinminer domain
 unb.thecoin.pw,domainlist coinminer domain
 unbreakablecoin.securepayment.cc,domainlist coinminer domain
 unc.pool.mn,domainlist coinminer domain
@@ -10634,12 +10721,15 @@ vegas-backup.xmrpool.net,domainlist coinminer domain
 vegas.xmrpool.net,domainlist coinminer domain
 vehicle-solutions.clona.ru,domainlist coinminer domain
 veil.coin-miners.info,domainlist coinminer domain
+veil.coinblockers.com,domainlist coinminer domain
 veil.pool.mn,domainlist coinminer domain
 veil.suprnova.cc,domainlist coinminer domain
 veilcoin.miningpoolhub.com,domainlist coinminer domain
 veltor.mine.zpool.ca,domainlist coinminer domain
 veltor.suprnova.cc,domainlist coinminer domain
 vendorexpress.speedup-faucet.com,domainlist coinminer domain
+venue.arhash.xyz,domainlist coinminer domain
+venue2.arhash.xyz,domainlist coinminer domain
 veo.nanopool.org,domainlist coinminer domain
 verge-scrypt.miningpoolhub.com,domainlist coinminer domain
 verge.blake2s.com,domainlist coinminer domain
@@ -10851,6 +10941,7 @@ wallet.btc.com,domainlist coinminer domain
 wallet.btcchina.com,domainlist coinminer domain
 wallet.btcprivate.pro,domainlist coinminer domain
 wallet.btgpool.pro,domainlist coinminer domain
+wallet.coinblockers.com,domainlist coinminer domain
 wallet.coinsecure.in,domainlist coinminer domain
 wallet.einfach-iota.de,domainlist coinminer domain
 wallet.eth.mypool.online,domainlist coinminer domain
@@ -10939,6 +11030,7 @@ webcnsg.loudmining.com,domainlist coinminer domain
 webcoin.me,domainlist coinminer domain
 webcoin.us,domainlist coinminer domain
 webdero.semipool.com,domainlist coinminer domain
+webdesign.connectbtc.com,domainlist coinminer domain
 webdev.2miners.com,domainlist coinminer domain
 webdev.nanopool.org,domainlist coinminer domain
 webdisk.bittank.club,domainlist coinminer domain
@@ -11678,6 +11770,7 @@ www-01.nanopool.org,domainlist coinminer domain
 www-origin.poolmining.org,domainlist coinminer domain
 www-tb7c.pr0gramm.com,domainlist coinminer domain
 www-test.nicehash.com,domainlist coinminer domain
+www-test.svpool.com,domainlist coinminer domain
 www.1-hash.com,domainlist coinminer domain
 www.115776615-884492032168661957.preview.editmysite.com,domainlist coinminer domain
 www.1q2w3.fun,domainlist coinminer domain
@@ -12078,6 +12171,7 @@ www.blog.bitaccess.co,domainlist coinminer domain
 www.blog.btc.com,domainlist coinminer domain
 www.blog.changelly.com,domainlist coinminer domain
 www.blog.coinbase.com,domainlist coinminer domain
+www.blog.connectbtc.com,domainlist coinminer domain
 www.blog.hashflare.io,domainlist coinminer domain
 www.blog.minergate.com,domainlist coinminer domain
 www.blog.slushpool.com,domainlist coinminer domain
@@ -13039,6 +13133,7 @@ www.grcpool.com,domainlist coinminer domain
 www.gre.pool.mn,domainlist coinminer domain
 www.greece.leetpools.net,domainlist coinminer domain
 www.green.pool.mn,domainlist coinminer domain
+www.greenbtc.com,domainlist coinminer domain
 www.greengaming.de,domainlist coinminer domain
 www.greenindex.dynamic-dns.net,domainlist coinminer domain
 www.gridcash.net,domainlist coinminer domain
@@ -13321,6 +13416,7 @@ www.kiwiminers.com,domainlist coinminer domain
 www.kkxmofkrykox.netcodepool.org,domainlist coinminer domain
 www.kore.pool.mn,domainlist coinminer domain
 www.kosmoplovci.org,domainlist coinminer domain
+www.koto-pool.work,domainlist coinminer domain
 www.kr.bitclub.network,domainlist coinminer domain
 www.kratos.biz,domainlist coinminer domain
 www.krb.cryptofriends.org,domainlist coinminer domain
@@ -13747,7 +13843,6 @@ www.myadstats.com,domainlist coinminer domain
 www.mycelium.com,domainlist coinminer domain
 www.mychainpools.com,domainlist coinminer domain
 www.mycoinwallet.net,domainlist coinminer domain
-www.mycrypto.com,domainlist coinminer domain
 www.mycryptopool.info,domainlist coinminer domain
 www.myeherwalliet.com,domainlist coinminer domain
 www.myeterwalliet.com,domainlist coinminer domain
@@ -14585,6 +14680,7 @@ www.suprnova.cc,domainlist coinminer domain
 www.surge.lightninghash.com,domainlist coinminer domain
 www.sv1.clickgem.com,domainlist coinminer domain
 www.svivqrhrh.ru,domainlist coinminer domain
+www.svpool.com,domainlist coinminer domain
 www.svr.pool.mn,domainlist coinminer domain
 www.swag.pool.mn,domainlist coinminer domain
 www.sww.btcguild.com,domainlist coinminer domain
@@ -15524,6 +15620,7 @@ xmg.hashhot.com,domainlist coinminer domain
 xmg.suprnova.cc,domainlist coinminer domain
 xminingpool.com,domainlist coinminer domain
 xml.mining.best,domainlist coinminer domain
+xmlc.arhash.xyz,domainlist coinminer domain
 xmo-bcn.pro.pool.minergate.com,domainlist coinminer domain
 xmo.pool.minergate.com,domainlist coinminer domain
 xmo.superpools.online,domainlist coinminer domain
@@ -15774,6 +15871,8 @@ xrm.prohash.net,domainlist coinminer domain
 xrn.fairpool.cloud,domainlist coinminer domain
 xsc.f2pool.com,domainlist coinminer domain
 xsecurity.fblaster.com,domainlist coinminer domain
+xsg-eu.coinblockers.com,domainlist coinminer domain
+xsg.coinblockers.com,domainlist coinminer domain
 xsg.pool.sexy,domainlist coinminer domain
 xssrmimmnq.ru,domainlist coinminer domain
 xst.argakiig.us,domainlist coinminer domain
@@ -16017,12 +16116,16 @@ zecweb.antpool.com,domainlist coinminer domain
 zed.nanopool.org,domainlist coinminer domain
 zeit.pool.mn,domainlist coinminer domain
 zeit.suprnova.cc,domainlist coinminer domain
+zel-asia.coinblockers.com,domainlist coinminer domain
 zel-eu.cloudpools.net,domainlist coinminer domain
 zel-eu.coinblockers.com,domainlist coinminer domain
+zel-eu2.coinblockers.com,domainlist coinminer domain
+zel-us.coinblockers.com,domainlist coinminer domain
 zel.cloudpools.net,domainlist coinminer domain
 zel.coinblockers.com,domainlist coinminer domain
 zel.minepool.ch,domainlist coinminer domain
 zelcash.miningspeed.com,domainlist coinminer domain
+zelexplore.coinblockers.com,domainlist coinminer domain
 zeltest.miningspeed.com,domainlist coinminer domain
 zen-api.suprnova.cc,domainlist coinminer domain
 zen.2miners.com,domainlist coinminer domain
