@@ -7,6 +7,7 @@
 5.2.88.89,iplist ransomeware feed
 5.8.63.31,iplist ransomeware feed
 5.8.63.54,iplist ransomeware feed
+5.9.13.83,iplist ransomeware feed
 5.9.16.239,iplist ransomeware feed
 5.9.25.251,iplist ransomeware feed
 5.9.29.72,iplist ransomeware feed
@@ -50,7 +51,6 @@
 5.134.11.22,iplist ransomeware feed
 5.134.127.240,iplist ransomeware feed
 5.135.76.18,iplist ransomeware feed
-5.135.137.36,iplist ransomeware feed
 5.135.137.120,iplist ransomeware feed
 5.135.179.42,iplist ransomeware feed
 5.135.207.118,iplist ransomeware feed
@@ -82,7 +82,6 @@
 13.74.47.60,iplist ransomeware feed
 13.228.131.80,iplist ransomeware feed
 13.231.53.239,iplist ransomeware feed
-14.102.148.24,iplist ransomeware feed
 14.102.148.26,iplist ransomeware feed
 14.128.132.150,iplist ransomeware feed
 18.185.180.74,iplist ransomeware feed
@@ -108,10 +107,12 @@
 23.89.174.99,iplist ransomeware feed
 23.89.198.195,iplist ransomeware feed
 23.91.71.214,iplist ransomeware feed
+23.107.31.155,iplist ransomeware feed
 23.111.65.36,iplist ransomeware feed
 23.111.138.46,iplist ransomeware feed
 23.224.21.136,iplist ransomeware feed
 23.224.49.61,iplist ransomeware feed
+23.225.78.9,iplist ransomeware feed
 23.225.170.44,iplist ransomeware feed
 23.226.129.112,iplist ransomeware feed
 23.226.131.177,iplist ransomeware feed
@@ -135,6 +136,8 @@
 23.229.239.227,iplist ransomeware feed
 23.230.95.89,iplist ransomeware feed
 23.230.110.9,iplist ransomeware feed
+23.234.4.151,iplist ransomeware feed
+23.234.4.153,iplist ransomeware feed
 23.235.192.117,iplist ransomeware feed
 23.235.205.193,iplist ransomeware feed
 23.235.220.113,iplist ransomeware feed
@@ -214,6 +217,7 @@
 31.47.74.104,iplist ransomeware feed
 31.130.203.168,iplist ransomeware feed
 31.131.16.135,iplist ransomeware feed
+31.131.19.186,iplist ransomeware feed
 31.148.99.188,iplist ransomeware feed
 31.148.99.241,iplist ransomeware feed
 31.170.161.57,iplist ransomeware feed
@@ -246,6 +250,7 @@
 31.220.110.220,iplist ransomeware feed
 31.222.201.92,iplist ransomeware feed
 34.194.24.128,iplist ransomeware feed
+34.196.255.48,iplist ransomeware feed
 34.197.240.17,iplist ransomeware feed
 34.200.181.247,iplist ransomeware feed
 34.201.78.188,iplist ransomeware feed
@@ -265,6 +270,7 @@
 35.189.95.129,iplist ransomeware feed
 35.190.198.111,iplist ransomeware feed
 35.194.186.252,iplist ransomeware feed
+35.194.222.245,iplist ransomeware feed
 35.203.95.92,iplist ransomeware feed
 35.204.116.33,iplist ransomeware feed
 35.226.75.249,iplist ransomeware feed
@@ -281,7 +287,6 @@
 37.44.21.21,iplist ransomeware feed
 37.46.131.7,iplist ransomeware feed
 37.46.131.153,iplist ransomeware feed
-37.48.65.149,iplist ransomeware feed
 37.48.70.196,iplist ransomeware feed
 37.48.70.198,iplist ransomeware feed
 37.48.73.139,iplist ransomeware feed
@@ -326,6 +331,7 @@
 37.247.125.42,iplist ransomeware feed
 37.252.123.91,iplist ransomeware feed
 38.64.133.114,iplist ransomeware feed
+39.98.61.141,iplist ransomeware feed
 39.108.65.226,iplist ransomeware feed
 39.108.117.75,iplist ransomeware feed
 40.86.230.96,iplist ransomeware feed
@@ -335,17 +341,17 @@
 41.77.112.82,iplist ransomeware feed
 41.77.113.173,iplist ransomeware feed
 41.77.115.69,iplist ransomeware feed
-41.185.8.111,iplist ransomeware feed
 41.185.8.177,iplist ransomeware feed
+41.185.8.205,iplist ransomeware feed
 41.193.54.15,iplist ransomeware feed
 41.220.21.171,iplist ransomeware feed
 42.56.76.36,iplist ransomeware feed
 42.112.16.123,iplist ransomeware feed
+42.112.30.120,iplist ransomeware feed
 42.117.1.248,iplist ransomeware feed
 42.236.125.84,iplist ransomeware feed
 43.224.154.161,iplist ransomeware feed
 43.225.55.125,iplist ransomeware feed
-43.225.159.82,iplist ransomeware feed
 43.227.231.94,iplist ransomeware feed
 43.240.65.71,iplist ransomeware feed
 43.241.54.247,iplist ransomeware feed
@@ -389,6 +395,7 @@
 45.120.4.13,iplist ransomeware feed
 45.126.209.154,iplist ransomeware feed
 45.192.120.185,iplist ransomeware feed
+45.193.44.107,iplist ransomeware feed
 45.195.64.146,iplist ransomeware feed
 45.195.121.183,iplist ransomeware feed
 45.195.157.160,iplist ransomeware feed
@@ -462,7 +469,6 @@
 46.108.39.18,iplist ransomeware feed
 46.148.20.46,iplist ransomeware feed
 46.165.253.93,iplist ransomeware feed
-46.166.182.55,iplist ransomeware feed
 46.166.182.116,iplist ransomeware feed
 46.183.116.203,iplist ransomeware feed
 46.183.165.45,iplist ransomeware feed
@@ -471,7 +477,6 @@
 46.226.47.21,iplist ransomeware feed
 46.229.214.75,iplist ransomeware feed
 46.229.230.31,iplist ransomeware feed
-46.231.27.51,iplist ransomeware feed
 46.234.101.64,iplist ransomeware feed
 46.235.10.34,iplist ransomeware feed
 46.235.40.27,iplist ransomeware feed
@@ -535,32 +540,32 @@
 50.63.42.1,iplist ransomeware feed
 50.63.50.75,iplist ransomeware feed
 50.63.64.23,iplist ransomeware feed
-50.63.202.8,iplist ransomeware feed
+50.63.202.11,iplist ransomeware feed
 50.63.202.32,iplist ransomeware feed
-50.63.202.34,iplist ransomeware feed
+50.63.202.33,iplist ransomeware feed
 50.63.202.35,iplist ransomeware feed
 50.63.202.40,iplist ransomeware feed
+50.63.202.41,iplist ransomeware feed
 50.63.202.42,iplist ransomeware feed
 50.63.202.44,iplist ransomeware feed
 50.63.202.45,iplist ransomeware feed
+50.63.202.46,iplist ransomeware feed
+50.63.202.47,iplist ransomeware feed
+50.63.202.48,iplist ransomeware feed
 50.63.202.49,iplist ransomeware feed
 50.63.202.50,iplist ransomeware feed
+50.63.202.51,iplist ransomeware feed
 50.63.202.52,iplist ransomeware feed
-50.63.202.53,iplist ransomeware feed
-50.63.202.54,iplist ransomeware feed
-50.63.202.56,iplist ransomeware feed
-50.63.202.57,iplist ransomeware feed
 50.63.202.58,iplist ransomeware feed
 50.63.202.61,iplist ransomeware feed
 50.63.202.62,iplist ransomeware feed
 50.63.202.63,iplist ransomeware feed
-50.63.202.66,iplist ransomeware feed
-50.63.202.67,iplist ransomeware feed
+50.63.202.68,iplist ransomeware feed
 50.63.202.70,iplist ransomeware feed
-50.63.202.75,iplist ransomeware feed
+50.63.202.76,iplist ransomeware feed
 50.63.202.80,iplist ransomeware feed
-50.63.202.86,iplist ransomeware feed
-50.63.202.87,iplist ransomeware feed
+50.63.202.84,iplist ransomeware feed
+50.63.202.92,iplist ransomeware feed
 50.63.214.1,iplist ransomeware feed
 50.87.33.215,iplist ransomeware feed
 50.87.113.38,iplist ransomeware feed
@@ -613,6 +618,7 @@
 52.18.0.38,iplist ransomeware feed
 52.18.2.182,iplist ransomeware feed
 52.27.255.32,iplist ransomeware feed
+52.31.109.102,iplist ransomeware feed
 52.32.146.6,iplist ransomeware feed
 52.35.74.250,iplist ransomeware feed
 52.38.216.226,iplist ransomeware feed
@@ -626,7 +632,6 @@
 52.71.37.165,iplist ransomeware feed
 52.72.46.198,iplist ransomeware feed
 52.73.150.10,iplist ransomeware feed
-52.78.124.149,iplist ransomeware feed
 52.144.59.34,iplist ransomeware feed
 52.192.173.220,iplist ransomeware feed
 52.192.247.205,iplist ransomeware feed
@@ -639,11 +644,14 @@
 54.38.143.194,iplist ransomeware feed
 54.67.27.43,iplist ransomeware feed
 54.68.182.72,iplist ransomeware feed
+54.72.9.51,iplist ransomeware feed
 54.77.22.163,iplist ransomeware feed
 54.84.152.54,iplist ransomeware feed
 54.86.113.84,iplist ransomeware feed
+54.88.117.238,iplist ransomeware feed
 54.153.154.169,iplist ransomeware feed
-54.178.129.16,iplist ransomeware feed
+54.168.137.153,iplist ransomeware feed
+54.194.87.117,iplist ransomeware feed
 54.208.77.124,iplist ransomeware feed
 54.209.77.18,iplist ransomeware feed
 54.210.164.216,iplist ransomeware feed
@@ -659,7 +667,6 @@
 59.110.91.100,iplist ransomeware feed
 59.111.101.20,iplist ransomeware feed
 59.152.207.106,iplist ransomeware feed
-59.188.232.88,iplist ransomeware feed
 60.43.63.90,iplist ransomeware feed
 60.169.78.247,iplist ransomeware feed
 60.205.17.35,iplist ransomeware feed
@@ -687,7 +694,6 @@
 62.109.3.54,iplist ransomeware feed
 62.109.23.126,iplist ransomeware feed
 62.113.207.70,iplist ransomeware feed
-62.113.249.12,iplist ransomeware feed
 62.122.213.10,iplist ransomeware feed
 62.129.139.129,iplist ransomeware feed
 62.129.200.130,iplist ransomeware feed
@@ -733,8 +739,8 @@
 64.22.112.34,iplist ransomeware feed
 64.29.151.209,iplist ransomeware feed
 64.29.151.221,iplist ransomeware feed
-64.32.8.69,iplist ransomeware feed
-64.32.8.70,iplist ransomeware feed
+64.32.8.67,iplist ransomeware feed
+64.32.8.68,iplist ransomeware feed
 64.33.128.71,iplist ransomeware feed
 64.34.68.20,iplist ransomeware feed
 64.34.109.81,iplist ransomeware feed
@@ -779,6 +785,7 @@
 65.99.252.39,iplist ransomeware feed
 65.99.252.126,iplist ransomeware feed
 65.182.174.10,iplist ransomeware feed
+65.254.250.106,iplist ransomeware feed
 66.7.208.234,iplist ransomeware feed
 66.7.213.100,iplist ransomeware feed
 66.7.218.232,iplist ransomeware feed
@@ -794,7 +801,6 @@
 66.70.178.146,iplist ransomeware feed
 66.71.182.143,iplist ransomeware feed
 66.84.8.235,iplist ransomeware feed
-66.84.59.98,iplist ransomeware feed
 66.96.146.50,iplist ransomeware feed
 66.96.146.129,iplist ransomeware feed
 66.96.149.1,iplist ransomeware feed
@@ -811,7 +817,7 @@
 66.155.40.24,iplist ransomeware feed
 66.175.58.9,iplist ransomeware feed
 66.198.240.13,iplist ransomeware feed
-66.199.174.108,iplist ransomeware feed
+66.199.174.29,iplist ransomeware feed
 66.212.30.247,iplist ransomeware feed
 66.219.22.43,iplist ransomeware feed
 66.219.202.10,iplist ransomeware feed
@@ -833,7 +839,6 @@
 67.209.250.204,iplist ransomeware feed
 67.210.101.227,iplist ransomeware feed
 67.210.102.240,iplist ransomeware feed
-67.210.122.48,iplist ransomeware feed
 67.212.64.134,iplist ransomeware feed
 67.212.91.251,iplist ransomeware feed
 67.222.30.241,iplist ransomeware feed
@@ -1033,7 +1038,6 @@
 78.40.96.174,iplist ransomeware feed
 78.40.108.39,iplist ransomeware feed
 78.41.77.211,iplist ransomeware feed
-78.41.204.27,iplist ransomeware feed
 78.46.1.42,iplist ransomeware feed
 78.46.19.173,iplist ransomeware feed
 78.46.37.186,iplist ransomeware feed
@@ -1173,8 +1177,6 @@
 81.25.127.107,iplist ransomeware feed
 81.29.220.209,iplist ransomeware feed
 81.30.206.68,iplist ransomeware feed
-81.31.147.89,iplist ransomeware feed
-81.31.155.170,iplist ransomeware feed
 81.46.223.159,iplist ransomeware feed
 81.88.48.71,iplist ransomeware feed
 81.88.57.68,iplist ransomeware feed
@@ -1284,7 +1286,6 @@
 83.137.194.115,iplist ransomeware feed
 83.138.8.83,iplist ransomeware feed
 83.138.80.111,iplist ransomeware feed
-83.141.34.141,iplist ransomeware feed
 83.143.132.2,iplist ransomeware feed
 83.147.116.151,iplist ransomeware feed
 83.166.133.4,iplist ransomeware feed
@@ -1364,6 +1365,7 @@
 85.119.155.42,iplist ransomeware feed
 85.124.51.104,iplist ransomeware feed
 85.128.128.104,iplist ransomeware feed
+85.128.134.236,iplist ransomeware feed
 85.128.200.200,iplist ransomeware feed
 85.128.208.77,iplist ransomeware feed
 85.128.216.225,iplist ransomeware feed
@@ -1409,7 +1411,6 @@
 86.109.170.198,iplist ransomeware feed
 86.111.242.129,iplist ransomeware feed
 87.98.154.146,iplist ransomeware feed
-87.98.227.214,iplist ransomeware feed
 87.98.228.212,iplist ransomeware feed
 87.98.231.2,iplist ransomeware feed
 87.98.231.3,iplist ransomeware feed
@@ -1462,6 +1463,7 @@
 87.247.240.72,iplist ransomeware feed
 87.247.244.225,iplist ransomeware feed
 87.250.130.135,iplist ransomeware feed
+87.251.36.10,iplist ransomeware feed
 87.252.5.144,iplist ransomeware feed
 87.253.134.150,iplist ransomeware feed
 88.80.192.142,iplist ransomeware feed
@@ -1775,6 +1777,7 @@
 92.63.109.74,iplist ransomeware feed
 92.63.216.53,iplist ransomeware feed
 92.63.218.236,iplist ransomeware feed
+92.111.174.196,iplist ransomeware feed
 92.222.71.26,iplist ransomeware feed
 92.222.83.238,iplist ransomeware feed
 92.222.182.5,iplist ransomeware feed
@@ -1867,7 +1870,6 @@
 94.124.93.158,iplist ransomeware feed
 94.124.120.61,iplist ransomeware feed
 94.126.40.48,iplist ransomeware feed
-94.126.40.154,iplist ransomeware feed
 94.126.70.11,iplist ransomeware feed
 94.126.70.12,iplist ransomeware feed
 94.126.169.40,iplist ransomeware feed
@@ -2078,10 +2080,10 @@
 103.198.0.2,iplist ransomeware feed
 103.205.140.143,iplist ransomeware feed
 103.208.11.242,iplist ransomeware feed
-103.210.239.43,iplist ransomeware feed
 103.215.72.227,iplist ransomeware feed
 103.224.182.250,iplist ransomeware feed
 103.224.212.222,iplist ransomeware feed
+103.226.221.161,iplist ransomeware feed
 103.229.72.22,iplist ransomeware feed
 103.232.120.79,iplist ransomeware feed
 103.232.121.92,iplist ransomeware feed
@@ -2223,8 +2225,10 @@
 104.27.177.220,iplist ransomeware feed
 104.27.182.106,iplist ransomeware feed
 104.27.182.142,iplist ransomeware feed
+104.27.182.204,iplist ransomeware feed
 104.27.183.106,iplist ransomeware feed
 104.27.183.142,iplist ransomeware feed
+104.27.183.204,iplist ransomeware feed
 104.27.186.128,iplist ransomeware feed
 104.27.187.128,iplist ransomeware feed
 104.27.188.252,iplist ransomeware feed
@@ -2296,10 +2300,6 @@
 104.196.229.107,iplist ransomeware feed
 104.198.14.52,iplist ransomeware feed
 104.199.125.189,iplist ransomeware feed
-104.200.22.49,iplist ransomeware feed
-104.200.22.50,iplist ransomeware feed
-104.200.23.45,iplist ransomeware feed
-104.200.23.46,iplist ransomeware feed
 104.200.23.95,iplist ransomeware feed
 104.202.117.167,iplist ransomeware feed
 104.202.131.136,iplist ransomeware feed
@@ -2318,6 +2318,7 @@
 104.216.241.213,iplist ransomeware feed
 104.217.115.98,iplist ransomeware feed
 104.217.122.189,iplist ransomeware feed
+104.217.138.13,iplist ransomeware feed
 104.219.248.76,iplist ransomeware feed
 104.219.248.88,iplist ransomeware feed
 104.219.248.99,iplist ransomeware feed
@@ -2343,6 +2344,7 @@
 104.244.99.46,iplist ransomeware feed
 104.244.99.47,iplist ransomeware feed
 104.244.99.48,iplist ransomeware feed
+104.244.99.61,iplist ransomeware feed
 104.244.99.132,iplist ransomeware feed
 104.244.99.133,iplist ransomeware feed
 104.244.99.134,iplist ransomeware feed
@@ -2444,6 +2446,7 @@
 107.180.51.27,iplist ransomeware feed
 107.180.51.33,iplist ransomeware feed
 107.180.51.106,iplist ransomeware feed
+107.180.54.210,iplist ransomeware feed
 107.180.54.255,iplist ransomeware feed
 107.180.55.17,iplist ransomeware feed
 107.180.55.60,iplist ransomeware feed
@@ -2503,6 +2506,7 @@
 109.75.171.120,iplist ransomeware feed
 109.95.157.49,iplist ransomeware feed
 109.99.162.14,iplist ransomeware feed
+109.201.135.65,iplist ransomeware feed
 109.203.108.40,iplist ransomeware feed
 109.203.109.37,iplist ransomeware feed
 109.203.116.242,iplist ransomeware feed
@@ -2545,9 +2549,7 @@
 111.90.140.234,iplist ransomeware feed
 111.90.159.148,iplist ransomeware feed
 111.118.215.222,iplist ransomeware feed
-111.221.42.16,iplist ransomeware feed
 111.230.185.84,iplist ransomeware feed
-111.235.136.170,iplist ransomeware feed
 112.78.1.213,iplist ransomeware feed
 112.78.2.41,iplist ransomeware feed
 112.78.2.46,iplist ransomeware feed
@@ -2717,8 +2719,6 @@
 125.214.74.70,iplist ransomeware feed
 125.253.113.122,iplist ransomeware feed
 127.0.0.1,iplist ransomeware feed
-128.14.136.224,iplist ransomeware feed
-128.14.136.225,iplist ransomeware feed
 128.65.195.140,iplist ransomeware feed
 128.140.219.133,iplist ransomeware feed
 128.140.219.188,iplist ransomeware feed
@@ -2738,6 +2738,7 @@
 130.185.144.97,iplist ransomeware feed
 130.211.138.188,iplist ransomeware feed
 130.211.230.135,iplist ransomeware feed
+132.148.6.14,iplist ransomeware feed
 132.148.21.213,iplist ransomeware feed
 132.148.24.162,iplist ransomeware feed
 132.148.38.159,iplist ransomeware feed
@@ -2837,6 +2838,7 @@
 143.95.253.117,iplist ransomeware feed
 143.95.253.196,iplist ransomeware feed
 144.76.56.233,iplist ransomeware feed
+144.76.102.123,iplist ransomeware feed
 144.76.125.90,iplist ransomeware feed
 144.76.163.171,iplist ransomeware feed
 144.76.164.122,iplist ransomeware feed
@@ -2910,6 +2912,7 @@
 149.255.60.149,iplist ransomeware feed
 150.60.158.14,iplist ransomeware feed
 150.60.158.158,iplist ransomeware feed
+150.95.255.38,iplist ransomeware feed
 150.107.31.48,iplist ransomeware feed
 150.107.31.57,iplist ransomeware feed
 150.107.31.58,iplist ransomeware feed
@@ -2922,7 +2925,6 @@
 151.80.196.96,iplist ransomeware feed
 151.80.243.50,iplist ransomeware feed
 151.101.64.119,iplist ransomeware feed
-151.106.9.9,iplist ransomeware feed
 151.139.241.3,iplist ransomeware feed
 151.139.241.31,iplist ransomeware feed
 151.139.243.1,iplist ransomeware feed
@@ -2943,7 +2945,6 @@
 154.80.142.29,iplist ransomeware feed
 154.83.112.178,iplist ransomeware feed
 154.84.126.244,iplist ransomeware feed
-154.85.56.122,iplist ransomeware feed
 154.86.149.88,iplist ransomeware feed
 154.91.83.49,iplist ransomeware feed
 154.91.129.77,iplist ransomeware feed
@@ -2968,10 +2969,9 @@
 154.210.201.115,iplist ransomeware feed
 154.210.236.202,iplist ransomeware feed
 154.219.105.251,iplist ransomeware feed
-154.222.39.33,iplist ransomeware feed
 154.223.99.58,iplist ransomeware feed
 154.223.129.99,iplist ransomeware feed
-155.133.138.7,iplist ransomeware feed
+155.133.132.7,iplist ransomeware feed
 155.254.29.178,iplist ransomeware feed
 155.254.31.52,iplist ransomeware feed
 156.232.209.234,iplist ransomeware feed
@@ -3014,7 +3014,6 @@
 159.65.101.141,iplist ransomeware feed
 159.90.60.215,iplist ransomeware feed
 159.203.19.199,iplist ransomeware feed
-159.203.75.88,iplist ransomeware feed
 159.203.83.44,iplist ransomeware feed
 159.253.45.45,iplist ransomeware feed
 160.16.93.215,iplist ransomeware feed
@@ -3054,7 +3053,6 @@
 162.144.48.43,iplist ransomeware feed
 162.144.79.118,iplist ransomeware feed
 162.144.143.109,iplist ransomeware feed
-162.144.193.95,iplist ransomeware feed
 162.209.17.37,iplist ransomeware feed
 162.209.164.147,iplist ransomeware feed
 162.210.101.7,iplist ransomeware feed
@@ -3112,6 +3110,7 @@
 162.241.218.238,iplist ransomeware feed
 162.241.238.167,iplist ransomeware feed
 162.241.252.161,iplist ransomeware feed
+162.241.253.129,iplist ransomeware feed
 162.244.78.182,iplist ransomeware feed
 162.247.76.125,iplist ransomeware feed
 162.252.104.174,iplist ransomeware feed
@@ -3140,7 +3139,6 @@
 165.160.15.20,iplist ransomeware feed
 165.227.166.12,iplist ransomeware feed
 166.62.10.143,iplist ransomeware feed
-166.62.10.183,iplist ransomeware feed
 166.62.10.184,iplist ransomeware feed
 166.62.26.43,iplist ransomeware feed
 166.62.27.61,iplist ransomeware feed
@@ -3192,7 +3190,7 @@
 172.110.0.2,iplist ransomeware feed
 172.120.62.107,iplist ransomeware feed
 172.121.94.29,iplist ransomeware feed
-172.217.7.179,iplist ransomeware feed
+172.217.15.83,iplist ransomeware feed
 172.245.221.71,iplist ransomeware feed
 172.246.246.142,iplist ransomeware feed
 172.252.211.196,iplist ransomeware feed
@@ -3200,7 +3198,7 @@
 173.192.139.27,iplist ransomeware feed
 173.199.179.134,iplist ransomeware feed
 173.201.253.230,iplist ransomeware feed
-173.208.195.158,iplist ransomeware feed
+173.208.195.156,iplist ransomeware feed
 173.208.215.66,iplist ransomeware feed
 173.212.240.186,iplist ransomeware feed
 173.225.21.34,iplist ransomeware feed
@@ -3216,7 +3214,7 @@
 173.236.174.107,iplist ransomeware feed
 173.236.177.59,iplist ransomeware feed
 173.236.228.227,iplist ransomeware feed
-173.239.23.228,iplist ransomeware feed
+173.237.189.41,iplist ransomeware feed
 173.244.172.42,iplist ransomeware feed
 173.247.249.48,iplist ransomeware feed
 173.254.14.209,iplist ransomeware feed
@@ -3252,6 +3250,7 @@
 176.9.139.173,iplist ransomeware feed
 176.9.172.166,iplist ransomeware feed
 176.9.172.190,iplist ransomeware feed
+176.9.174.19,iplist ransomeware feed
 176.9.189.26,iplist ransomeware feed
 176.28.9.111,iplist ransomeware feed
 176.28.12.83,iplist ransomeware feed
@@ -3299,7 +3298,6 @@
 178.19.105.10,iplist ransomeware feed
 178.20.66.207,iplist ransomeware feed
 178.20.153.56,iplist ransomeware feed
-178.23.125.140,iplist ransomeware feed
 178.32.72.112,iplist ransomeware feed
 178.32.72.113,iplist ransomeware feed
 178.32.78.209,iplist ransomeware feed
@@ -3308,7 +3306,6 @@
 178.32.154.18,iplist ransomeware feed
 178.33.49.137,iplist ransomeware feed
 178.33.84.115,iplist ransomeware feed
-178.57.217.251,iplist ransomeware feed
 178.62.64.96,iplist ransomeware feed
 178.62.86.120,iplist ransomeware feed
 178.62.232.244,iplist ransomeware feed
@@ -3319,7 +3316,6 @@
 178.63.68.72,iplist ransomeware feed
 178.63.238.185,iplist ransomeware feed
 178.128.155.112,iplist ransomeware feed
-178.158.224.175,iplist ransomeware feed
 178.208.35.92,iplist ransomeware feed
 178.208.83.11,iplist ransomeware feed
 178.208.83.37,iplist ransomeware feed
@@ -3329,7 +3325,6 @@
 178.211.57.227,iplist ransomeware feed
 178.237.15.128,iplist ransomeware feed
 178.248.20.102,iplist ransomeware feed
-178.249.187.200,iplist ransomeware feed
 178.254.0.77,iplist ransomeware feed
 178.254.10.169,iplist ransomeware feed
 178.254.50.156,iplist ransomeware feed
@@ -3391,32 +3386,32 @@
 184.168.136.128,iplist ransomeware feed
 184.168.178.1,iplist ransomeware feed
 184.168.203.1,iplist ransomeware feed
-184.168.221.23,iplist ransomeware feed
-184.168.221.31,iplist ransomeware feed
+184.168.221.17,iplist ransomeware feed
+184.168.221.18,iplist ransomeware feed
 184.168.221.33,iplist ransomeware feed
 184.168.221.34,iplist ransomeware feed
 184.168.221.35,iplist ransomeware feed
-184.168.221.36,iplist ransomeware feed
 184.168.221.38,iplist ransomeware feed
-184.168.221.39,iplist ransomeware feed
-184.168.221.44,iplist ransomeware feed
-184.168.221.47,iplist ransomeware feed
-184.168.221.48,iplist ransomeware feed
+184.168.221.41,iplist ransomeware feed
+184.168.221.42,iplist ransomeware feed
+184.168.221.45,iplist ransomeware feed
+184.168.221.46,iplist ransomeware feed
 184.168.221.50,iplist ransomeware feed
+184.168.221.52,iplist ransomeware feed
 184.168.221.53,iplist ransomeware feed
+184.168.221.55,iplist ransomeware feed
 184.168.221.56,iplist ransomeware feed
-184.168.221.57,iplist ransomeware feed
 184.168.221.58,iplist ransomeware feed
 184.168.221.61,iplist ransomeware feed
 184.168.221.62,iplist ransomeware feed
-184.168.221.63,iplist ransomeware feed
-184.168.221.70,iplist ransomeware feed
+184.168.221.64,iplist ransomeware feed
+184.168.221.73,iplist ransomeware feed
 184.168.221.75,iplist ransomeware feed
 184.168.221.77,iplist ransomeware feed
-184.168.221.78,iplist ransomeware feed
-184.168.221.84,iplist ransomeware feed
+184.168.221.80,iplist ransomeware feed
+184.168.221.82,iplist ransomeware feed
 184.168.221.85,iplist ransomeware feed
-184.168.221.94,iplist ransomeware feed
+184.168.221.93,iplist ransomeware feed
 184.168.221.96,iplist ransomeware feed
 184.171.255.37,iplist ransomeware feed
 185.2.4.60,iplist ransomeware feed
@@ -3461,6 +3456,7 @@
 185.25.23.56,iplist ransomeware feed
 185.26.122.17,iplist ransomeware feed
 185.26.122.59,iplist ransomeware feed
+185.26.122.67,iplist ransomeware feed
 185.28.56.14,iplist ransomeware feed
 185.28.62.7,iplist ransomeware feed
 185.31.76.121,iplist ransomeware feed
@@ -3475,7 +3471,7 @@
 185.41.186.236,iplist ransomeware feed
 185.42.172.189,iplist ransomeware feed
 185.43.207.2,iplist ransomeware feed
-185.44.36.201,iplist ransomeware feed
+185.44.36.167,iplist ransomeware feed
 185.45.72.102,iplist ransomeware feed
 185.46.11.73,iplist ransomeware feed
 185.46.11.239,iplist ransomeware feed
@@ -3489,7 +3485,6 @@
 185.53.178.7,iplist ransomeware feed
 185.53.178.9,iplist ransomeware feed
 185.53.179.8,iplist ransomeware feed
-185.53.179.29,iplist ransomeware feed
 185.55.224.212,iplist ransomeware feed
 185.55.225.33,iplist ransomeware feed
 185.55.227.119,iplist ransomeware feed
@@ -3587,6 +3582,7 @@
 185.119.173.239,iplist ransomeware feed
 185.119.175.82,iplist ransomeware feed
 185.123.161.212,iplist ransomeware feed
+185.124.232.106,iplist ransomeware feed
 185.127.25.176,iplist ransomeware feed
 185.129.18.235,iplist ransomeware feed
 185.129.148.6,iplist ransomeware feed
@@ -3649,6 +3645,7 @@
 185.199.109.153,iplist ransomeware feed
 185.199.110.153,iplist ransomeware feed
 185.199.111.153,iplist ransomeware feed
+185.201.10.129,iplist ransomeware feed
 185.204.218.214,iplist ransomeware feed
 185.204.219.126,iplist ransomeware feed
 185.204.219.132,iplist ransomeware feed
@@ -3664,6 +3661,8 @@
 185.221.152.186,iplist ransomeware feed
 185.221.225.28,iplist ransomeware feed
 185.224.137.211,iplist ransomeware feed
+185.224.138.17,iplist ransomeware feed
+185.228.179.52,iplist ransomeware feed
 186.64.115.110,iplist ransomeware feed
 186.64.119.140,iplist ransomeware feed
 186.151.199.5,iplist ransomeware feed
@@ -3778,7 +3777,6 @@
 191.252.51.217,iplist ransomeware feed
 192.0.78.24,iplist ransomeware feed
 192.0.78.25,iplist ransomeware feed
-192.3.2.50,iplist ransomeware feed
 192.30.252.153,iplist ransomeware feed
 192.30.252.154,iplist ransomeware feed
 192.40.112.211,iplist ransomeware feed
@@ -3786,7 +3784,6 @@
 192.42.118.104,iplist ransomeware feed
 192.64.53.192,iplist ransomeware feed
 192.64.119.20,iplist ransomeware feed
-192.64.119.164,iplist ransomeware feed
 192.64.119.254,iplist ransomeware feed
 192.71.213.69,iplist ransomeware feed
 192.80.146.30,iplist ransomeware feed
@@ -3825,14 +3822,15 @@
 192.145.233.48,iplist ransomeware feed
 192.151.226.157,iplist ransomeware feed
 192.155.81.104,iplist ransomeware feed
-192.155.108.148,iplist ransomeware feed
-192.155.108.150,iplist ransomeware feed
+192.155.108.155,iplist ransomeware feed
+192.155.108.157,iplist ransomeware feed
 192.155.253.202,iplist ransomeware feed
 192.157.228.220,iplist ransomeware feed
 192.161.187.200,iplist ransomeware feed
 192.162.101.26,iplist ransomeware feed
 192.163.206.61,iplist ransomeware feed
 192.165.54.225,iplist ransomeware feed
+192.184.12.62,iplist ransomeware feed
 192.185.4.29,iplist ransomeware feed
 192.185.4.61,iplist ransomeware feed
 192.185.4.155,iplist ransomeware feed
@@ -3890,6 +3888,7 @@
 192.186.220.8,iplist ransomeware feed
 192.186.224.37,iplist ransomeware feed
 192.186.239.68,iplist ransomeware feed
+192.186.242.166,iplist ransomeware feed
 192.186.245.194,iplist ransomeware feed
 192.186.246.98,iplist ransomeware feed
 192.186.249.73,iplist ransomeware feed
@@ -3970,12 +3969,12 @@
 194.31.59.5,iplist ransomeware feed
 194.38.104.131,iplist ransomeware feed
 194.38.104.132,iplist ransomeware feed
+194.58.56.13,iplist ransomeware feed
 194.58.56.58,iplist ransomeware feed
 194.58.56.85,iplist ransomeware feed
 194.58.56.103,iplist ransomeware feed
 194.58.56.165,iplist ransomeware feed
 194.58.56.198,iplist ransomeware feed
-194.58.56.201,iplist ransomeware feed
 194.58.103.108,iplist ransomeware feed
 194.58.112.165,iplist ransomeware feed
 194.58.112.173,iplist ransomeware feed
@@ -4186,7 +4185,6 @@
 198.187.31.16,iplist ransomeware feed
 198.187.31.103,iplist ransomeware feed
 198.252.78.160,iplist ransomeware feed
-198.252.102.132,iplist ransomeware feed
 199.30.241.139,iplist ransomeware feed
 199.34.228.59,iplist ransomeware feed
 199.34.228.73,iplist ransomeware feed
@@ -4224,7 +4222,7 @@
 200.73.115.9,iplist ransomeware feed
 200.80.43.110,iplist ransomeware feed
 200.83.3.52,iplist ransomeware feed
-200.85.96.115,iplist ransomeware feed
+200.85.96.96,iplist ransomeware feed
 200.110.156.53,iplist ransomeware feed
 200.110.156.67,iplist ransomeware feed
 201.33.17.100,iplist ransomeware feed
@@ -4282,7 +4280,6 @@
 203.119.6.100,iplist ransomeware feed
 203.124.44.33,iplist ransomeware feed
 203.124.44.95,iplist ransomeware feed
-203.124.103.1,iplist ransomeware feed
 203.124.116.1,iplist ransomeware feed
 203.129.113.142,iplist ransomeware feed
 203.145.230.194,iplist ransomeware feed
@@ -4294,7 +4291,6 @@
 203.146.170.111,iplist ransomeware feed
 203.150.225.235,iplist ransomeware feed
 203.151.233.116,iplist ransomeware feed
-203.162.123.41,iplist ransomeware feed
 203.170.83.97,iplist ransomeware feed
 203.170.87.105,iplist ransomeware feed
 203.170.87.113,iplist ransomeware feed
@@ -4354,6 +4350,7 @@
 207.210.200.135,iplist ransomeware feed
 207.210.232.7,iplist ransomeware feed
 207.210.232.52,iplist ransomeware feed
+207.244.67.215,iplist ransomeware feed
 207.244.97.230,iplist ransomeware feed
 208.43.88.227,iplist ransomeware feed
 208.52.174.23,iplist ransomeware feed
@@ -4401,19 +4398,20 @@
 209.99.40.16,iplist ransomeware feed
 209.99.40.219,iplist ransomeware feed
 209.99.40.220,iplist ransomeware feed
+209.99.40.221,iplist ransomeware feed
 209.99.40.222,iplist ransomeware feed
 209.99.40.223,iplist ransomeware feed
 209.99.40.224,iplist ransomeware feed
 209.99.40.226,iplist ransomeware feed
 209.99.64.43,iplist ransomeware feed
 209.126.22.187,iplist ransomeware feed
+209.126.123.11,iplist ransomeware feed
 209.140.19.127,iplist ransomeware feed
 209.141.38.71,iplist ransomeware feed
 209.172.42.4,iplist ransomeware feed
 209.182.198.152,iplist ransomeware feed
 209.188.15.185,iplist ransomeware feed
 209.193.73.67,iplist ransomeware feed
-209.200.154.38,iplist ransomeware feed
 209.200.154.50,iplist ransomeware feed
 209.200.227.229,iplist ransomeware feed
 209.200.244.79,iplist ransomeware feed
@@ -4506,7 +4504,6 @@
 212.58.2.44,iplist ransomeware feed
 212.63.108.71,iplist ransomeware feed
 212.67.205.60,iplist ransomeware feed
-212.71.250.201,iplist ransomeware feed
 212.72.182.134,iplist ransomeware feed
 212.72.183.216,iplist ransomeware feed
 212.83.147.176,iplist ransomeware feed
@@ -4515,7 +4512,6 @@
 212.89.14.185,iplist ransomeware feed
 212.89.16.142,iplist ransomeware feed
 212.90.148.111,iplist ransomeware feed
-212.91.7.33,iplist ransomeware feed
 212.91.26.8,iplist ransomeware feed
 212.97.132.199,iplist ransomeware feed
 212.104.43.3,iplist ransomeware feed
