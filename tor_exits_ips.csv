@@ -4,6 +4,7 @@
 5.3.163.124,iplist tor exits
 5.34.181.34,iplist tor exits
 5.34.181.35,iplist tor exits
+5.34.181.114,iplist tor exits
 5.34.183.105,iplist tor exits
 5.39.217.14,iplist tor exits
 5.79.68.161,iplist tor exits
@@ -20,10 +21,12 @@
 5.254.146.7,iplist tor exits
 18.18.248.17,iplist tor exits
 18.85.192.253,iplist tor exits
+23.129.64.101,iplist tor exits
+23.129.64.106,iplist tor exits
 23.239.23.104,iplist tor exits
 24.3.111.78,iplist tor exits
 24.20.43.120,iplist tor exits
-31.23.219.35,iplist tor exits
+31.23.174.244,iplist tor exits
 31.31.72.24,iplist tor exits
 31.31.74.47,iplist tor exits
 31.31.74.131,iplist tor exits
@@ -51,13 +54,11 @@
 37.228.129.2,iplist tor exits
 38.117.96.154,iplist tor exits
 40.124.44.53,iplist tor exits
-41.100.21.167,iplist tor exits
 41.215.241.146,iplist tor exits
 45.32.116.97,iplist tor exits
 45.33.43.215,iplist tor exits
 45.56.103.80,iplist tor exits
 45.62.250.175,iplist tor exits
-45.62.250.179,iplist tor exits
 45.64.186.102,iplist tor exits
 45.66.32.220,iplist tor exits
 45.76.115.159,iplist tor exits
@@ -67,10 +68,12 @@
 46.17.46.199,iplist tor exits
 46.29.248.238,iplist tor exits
 46.38.235.14,iplist tor exits
+46.98.196.225,iplist tor exits
+46.98.199.25,iplist tor exits
 46.98.199.52,iplist tor exits
-46.98.200.99,iplist tor exits
-46.98.202.30,iplist tor exits
-46.98.203.77,iplist tor exits
+46.98.203.112,iplist tor exits
+46.98.205.186,iplist tor exits
+46.98.205.194,iplist tor exits
 46.101.61.36,iplist tor exits
 46.105.52.65,iplist tor exits
 46.165.230.5,iplist tor exits
@@ -83,8 +86,8 @@
 46.182.19.15,iplist tor exits
 46.182.19.219,iplist tor exits
 46.182.106.190,iplist tor exits
-46.246.39.161,iplist tor exits
-46.246.49.232,iplist tor exits
+46.246.43.49,iplist tor exits
+46.246.49.132,iplist tor exits
 46.250.220.166,iplist tor exits
 49.50.66.209,iplist tor exits
 49.50.107.221,iplist tor exits
@@ -105,7 +108,6 @@
 51.15.68.66,iplist tor exits
 51.15.75.133,iplist tor exits
 51.15.80.14,iplist tor exits
-51.15.92.212,iplist tor exits
 51.15.106.67,iplist tor exits
 51.15.117.50,iplist tor exits
 51.15.123.230,iplist tor exits
@@ -137,6 +139,7 @@
 54.36.189.105,iplist tor exits
 54.36.222.37,iplist tor exits
 54.37.16.241,iplist tor exits
+54.37.75.89,iplist tor exits
 54.37.234.66,iplist tor exits
 54.39.98.106,iplist tor exits
 54.39.148.232,iplist tor exits
@@ -176,7 +179,8 @@
 72.83.43.53,iplist tor exits
 72.210.252.137,iplist tor exits
 74.82.47.194,iplist tor exits
-77.3.182.190,iplist tor exits
+77.10.130.23,iplist tor exits
+77.13.40.229,iplist tor exits
 77.55.212.215,iplist tor exits
 77.68.42.132,iplist tor exits
 77.73.69.90,iplist tor exits
@@ -191,7 +195,6 @@
 78.130.128.106,iplist tor exits
 78.142.19.43,iplist tor exits
 78.142.175.70,iplist tor exits
-79.132.11.117,iplist tor exits
 79.134.234.247,iplist tor exits
 79.143.186.17,iplist tor exits
 79.172.193.32,iplist tor exits
@@ -199,7 +202,6 @@
 80.68.92.225,iplist tor exits
 80.79.23.7,iplist tor exits
 80.127.116.96,iplist tor exits
-80.137.184.59,iplist tor exits
 80.169.241.76,iplist tor exits
 80.241.60.207,iplist tor exits
 81.17.27.130,iplist tor exits
@@ -219,6 +221,7 @@
 82.94.251.227,iplist tor exits
 82.118.242.113,iplist tor exits
 82.118.242.128,iplist tor exits
+82.151.193.198,iplist tor exits
 82.221.128.191,iplist tor exits
 82.221.131.5,iplist tor exits
 82.221.131.71,iplist tor exits
@@ -228,6 +231,7 @@
 82.223.14.245,iplist tor exits
 82.223.27.82,iplist tor exits
 82.228.252.20,iplist tor exits
+83.135.106.65,iplist tor exits
 83.136.106.136,iplist tor exits
 83.136.106.153,iplist tor exits
 84.200.12.61,iplist tor exits
@@ -252,8 +256,7 @@
 87.120.36.157,iplist tor exits
 87.120.254.204,iplist tor exits
 87.120.254.223,iplist tor exits
-87.122.229.59,iplist tor exits
-89.12.189.26,iplist tor exits
+88.77.181.74,iplist tor exits
 89.31.57.5,iplist tor exits
 89.31.96.168,iplist tor exits
 89.144.12.17,iplist tor exits
@@ -267,7 +270,6 @@
 91.92.109.43,iplist tor exits
 91.92.109.119,iplist tor exits
 91.121.192.154,iplist tor exits
-91.121.251.65,iplist tor exits
 91.146.121.3,iplist tor exits
 91.153.76.138,iplist tor exits
 91.203.5.146,iplist tor exits
@@ -297,11 +299,11 @@
 94.102.49.152,iplist tor exits
 94.102.51.78,iplist tor exits
 94.156.77.134,iplist tor exits
-94.221.108.168,iplist tor exits
+94.168.35.70,iplist tor exits
 94.230.208.147,iplist tor exits
 94.230.208.148,iplist tor exits
 94.242.59.89,iplist tor exits
-94.248.13.254,iplist tor exits
+94.248.1.228,iplist tor exits
 95.42.126.41,iplist tor exits
 95.103.57.132,iplist tor exits
 95.128.43.164,iplist tor exits
@@ -337,6 +339,8 @@
 103.236.201.110,iplist tor exits
 104.40.73.53,iplist tor exits
 104.131.206.23,iplist tor exits
+104.167.100.86,iplist tor exits
+104.167.102.164,iplist tor exits
 104.192.3.226,iplist tor exits
 104.194.228.240,iplist tor exits
 104.196.43.128,iplist tor exits
@@ -351,7 +355,6 @@
 104.244.76.13,iplist tor exits
 104.244.77.49,iplist tor exits
 107.155.49.126,iplist tor exits
-107.173.58.166,iplist tor exits
 107.181.161.182,iplist tor exits
 107.181.174.66,iplist tor exits
 108.85.99.10,iplist tor exits
@@ -373,6 +376,7 @@
 114.32.35.232,iplist tor exits
 118.163.74.160,iplist tor exits
 122.147.141.130,iplist tor exits
+123.193.200.152,iplist tor exits
 124.109.1.207,iplist tor exits
 125.212.241.182,iplist tor exits
 128.14.136.158,iplist tor exits
@@ -417,9 +421,9 @@
 149.202.238.204,iplist tor exits
 151.53.222.95,iplist tor exits
 153.169.19.10,iplist tor exits
-154.127.60.92,iplist tor exits
 156.54.213.67,iplist tor exits
 157.157.87.22,iplist tor exits
+157.161.57.70,iplist tor exits
 158.69.37.14,iplist tor exits
 158.69.192.200,iplist tor exits
 158.69.192.239,iplist tor exits
@@ -447,13 +451,11 @@
 162.247.74.202,iplist tor exits
 162.247.74.204,iplist tor exits
 162.247.74.206,iplist tor exits
-162.247.74.213,iplist tor exits
 162.247.74.216,iplist tor exits
 162.247.74.217,iplist tor exits
 163.172.12.160,iplist tor exits
 163.172.41.228,iplist tor exits
 163.172.66.247,iplist tor exits
-163.172.151.47,iplist tor exits
 163.172.160.182,iplist tor exits
 163.172.221.204,iplist tor exits
 164.77.133.220,iplist tor exits
@@ -474,6 +476,7 @@
 172.98.67.39,iplist tor exits
 172.98.193.43,iplist tor exits
 173.14.173.227,iplist tor exits
+173.199.70.185,iplist tor exits
 173.212.244.116,iplist tor exits
 173.244.209.5,iplist tor exits
 173.255.226.142,iplist tor exits
@@ -490,7 +493,6 @@
 176.107.179.147,iplist tor exits
 176.121.81.51,iplist tor exits
 176.126.83.211,iplist tor exits
-177.205.16.158,iplist tor exits
 178.17.166.146,iplist tor exits
 178.17.166.147,iplist tor exits
 178.17.166.148,iplist tor exits
@@ -521,6 +523,8 @@
 178.20.55.16,iplist tor exits
 178.20.55.18,iplist tor exits
 178.32.147.150,iplist tor exits
+178.128.52.46,iplist tor exits
+178.141.22.180,iplist tor exits
 178.165.72.177,iplist tor exits
 178.175.131.194,iplist tor exits
 178.175.132.209,iplist tor exits
@@ -631,7 +635,6 @@
 185.165.169.71,iplist tor exits
 185.165.169.165,iplist tor exits
 185.169.42.141,iplist tor exits
-185.175.208.179,iplist tor exits
 185.175.208.180,iplist tor exits
 185.177.151.34,iplist tor exits
 185.191.204.254,iplist tor exits
@@ -719,7 +722,8 @@
 190.10.8.50,iplist tor exits
 190.105.226.81,iplist tor exits
 190.164.230.184,iplist tor exits
-191.114.76.75,iplist tor exits
+191.114.59.68,iplist tor exits
+191.250.140.204,iplist tor exits
 192.34.53.19,iplist tor exits
 192.34.80.176,iplist tor exits
 192.42.116.13,iplist tor exits
@@ -745,6 +749,7 @@
 192.160.102.170,iplist tor exits
 192.195.80.10,iplist tor exits
 193.9.114.139,iplist tor exits
+193.9.115.24,iplist tor exits
 193.19.118.171,iplist tor exits
 193.29.15.223,iplist tor exits
 193.30.34.6,iplist tor exits
@@ -762,7 +767,6 @@
 193.169.145.194,iplist tor exits
 193.169.145.202,iplist tor exits
 193.201.225.45,iplist tor exits
-194.67.198.159,iplist tor exits
 194.71.109.44,iplist tor exits
 194.88.143.66,iplist tor exits
 194.99.106.148,iplist tor exits
@@ -772,7 +776,9 @@
 195.123.217.153,iplist tor exits
 195.123.224.108,iplist tor exits
 195.123.228.161,iplist tor exits
+195.123.237.249,iplist tor exits
 195.123.237.251,iplist tor exits
+195.123.240.73,iplist tor exits
 195.123.245.96,iplist tor exits
 195.176.3.19,iplist tor exits
 195.176.3.20,iplist tor exits
@@ -844,14 +850,13 @@
 204.11.50.131,iplist tor exits
 204.17.56.42,iplist tor exits
 204.27.60.147,iplist tor exits
+204.85.191.8,iplist tor exits
 204.85.191.9,iplist tor exits
-204.85.191.30,iplist tor exits
 204.194.29.4,iplist tor exits
 205.168.84.133,iplist tor exits
 205.185.118.10,iplist tor exits
 205.185.126.56,iplist tor exits
 205.185.127.219,iplist tor exits
-206.248.184.127,iplist tor exits
 207.180.224.17,iplist tor exits
 207.244.70.35,iplist tor exits
 209.95.51.11,iplist tor exits
