@@ -869,6 +869,7 @@ admin.miner.rocks,coinminer domain(admin.miner.rocks),cryptomining,coinblockerli
 admin.miningexpress.com,coinminer domain(admin.miningexpress.com),cryptomining,coinblockerlists
 admin.monerominer.rocks,coinminer domain(admin.monerominer.rocks),cryptomining,coinblockerlists
 admin.monit.quantumminingpool.com,coinminer domain(admin.monit.quantumminingpool.com),cryptomining,coinblockerlists
+admin.n3xt-pool.net,coinminer domain(admin.n3xt-pool.net),cryptomining,coinblockerlists
 admin.node.coin-miners.info,coinminer domain(admin.node.coin-miners.info),cryptomining,coinblockerlists
 admin.pool.golix.com,coinminer domain(admin.pool.golix.com),cryptomining,coinblockerlists
 admin.securepayment.cc,coinminer domain(admin.securepayment.cc),cryptomining,coinblockerlists
@@ -1588,6 +1589,7 @@ api.mtip.heigh-ho.funkypenguin.co.nz,coinminer domain(api.mtip.heigh-ho.funkypen
 api.multipool.us,coinminer domain(api.multipool.us),cryptomining,coinblockerlists
 api.music.labaleine.gg,coinminer domain(api.music.labaleine.gg),cryptomining,coinblockerlists
 api.music.mypool.online,coinminer domain(api.music.mypool.online),cryptomining,coinblockerlists
+api.n3xt-pool.net,coinminer domain(api.n3xt-pool.net),cryptomining,coinblockerlists
 api.nanopool.org,coinminer domain(api.nanopool.org),cryptomining,coinblockerlists
 api.nbx.heigh-ho.funkypenguin.co.nz,coinminer domain(api.nbx.heigh-ho.funkypenguin.co.nz),cryptomining,coinblockerlists
 api.netflare.info,coinminer domain(api.netflare.info),cryptomining,coinblockerlists
@@ -3971,6 +3973,7 @@ chain-vip-bj.api.btc.com,coinminer domain(chain-vip-bj.api.btc.com),cryptomining
 chain.api.btc.com,coinminer domain(chain.api.btc.com),cryptomining,coinblockerlists
 chain.btc.com,coinminer domain(chain.btc.com),cryptomining,coinblockerlists
 chain.gridcoin.us,coinminer domain(chain.gridcoin.us),cryptomining,coinblockerlists
+chain.n3xt-pool.net,coinminer domain(chain.n3xt-pool.net),cryptomining,coinblockerlists
 chain.node.gridcoin.us,coinminer domain(chain.node.gridcoin.us),cryptomining,coinblockerlists
 chainblock.sc,coinminer domain(chainblock.sc),cryptomining,coinblockerlists
 chainblock.science,coinminer domain(chainblock.science),cryptomining,coinblockerlists
@@ -7013,6 +7016,7 @@ eu.multipool.com,coinminer domain(eu.multipool.com),cryptomining,coinblockerlist
 eu.multipool.us,coinminer domain(eu.multipool.us),cryptomining,coinblockerlists
 eu.myzen.cash,coinminer domain(eu.myzen.cash),cryptomining,coinblockerlists
 eu.n-engine.com,coinminer domain(eu.n-engine.com),cryptomining,coinblockerlists
+eu.n3xt-pool.net,coinminer domain(eu.n3xt-pool.net),cryptomining,coinblockerlists
 eu.nanopool.org,coinminer domain(eu.nanopool.org),cryptomining,coinblockerlists
 eu.netcodepool.org,coinminer domain(eu.netcodepool.org),cryptomining,coinblockerlists
 eu.nicehash.com,coinminer domain(eu.nicehash.com),cryptomining,coinblockerlists
@@ -7296,6 +7300,7 @@ exp.minandoando.com,coinminer domain(exp.minandoando.com),cryptomining,coinblock
 exp.minerpool.net,coinminer domain(exp.minerpool.net),cryptomining,coinblockerlists
 exp.minertopia.org,coinminer domain(exp.minertopia.org),cryptomining,coinblockerlists
 exp.mypool.online,coinminer domain(exp.mypool.online),cryptomining,coinblockerlists
+exp.n3xt-pool.net,coinminer domain(exp.n3xt-pool.net),cryptomining,coinblockerlists
 exp.nanopool.org,coinminer domain(exp.nanopool.org),cryptomining,coinblockerlists
 exp.pool.sexy,coinminer domain(exp.pool.sexy),cryptomining,coinblockerlists
 exp.pool.whalesburg.com,coinminer domain(exp.pool.whalesburg.com),cryptomining,coinblockerlists
@@ -12050,6 +12055,7 @@ n01.pool.node.einfach-iota.de,coinminer domain(n01.pool.node.einfach-iota.de),cr
 n1.cryptopia.co.nz,coinminer domain(n1.cryptopia.co.nz),cryptomining,coinblockerlists
 n1.pool.einfach-iota.de,coinminer domain(n1.pool.einfach-iota.de),cryptomining,coinblockerlists
 n1.pool.node.einfach-iota.de,coinminer domain(n1.pool.node.einfach-iota.de),cryptomining,coinblockerlists
+n3xt-pool.net,coinminer domain(n3xt-pool.net),cryptomining,coinblockerlists
 n5.pool.mn,coinminer domain(n5.pool.mn),cryptomining,coinblockerlists
 n5x.suprnova.cc,coinminer domain(n5x.suprnova.cc),cryptomining,coinblockerlists
 na.cloudpools.net,coinminer domain(na.cloudpools.net),cryptomining,coinblockerlists
@@ -16570,6 +16576,7 @@ smc.smartmining.net,coinminer domain(smc.smartmining.net),cryptomining,coinblock
 smc.stratum.smartmining.net,coinminer domain(smc.stratum.smartmining.net),cryptomining,coinblockerlists
 smectapop12.pl,coinminer domain(smectapop12.pl),cryptomining,coinblockerlists
 smith.pool.sexy,coinminer domain(smith.pool.sexy),cryptomining,coinblockerlists
+smithpool.dynu.net,coinminer domain(smithpool.dynu.net),cryptomining,coinblockerlists
 smly.suprnova.cc,coinminer domain(smly.suprnova.cc),cryptomining,coinblockerlists
 smr-eu1.nanopool.org,coinminer domain(smr-eu1.nanopool.org),cryptomining,coinblockerlists
 sms-api.uax.io,coinminer domain(sms-api.uax.io),cryptomining,coinblockerlists
@@ -23187,6 +23194,7 @@ www.mza.thecoin.pw,coinminer domain(www.mza.thecoin.pw),cryptomining,coinblocker
 www.mzc.thecoin.pw,coinminer domain(www.mzc.thecoin.pw),cryptomining,coinblockerlists
 www.mzt.llama.horse,coinminer domain(www.mzt.llama.horse),cryptomining,coinblockerlists
 www.n-engine.com,coinminer domain(www.n-engine.com),cryptomining,coinblockerlists
+www.n3xt-pool.net,coinminer domain(www.n3xt-pool.net),cryptomining,coinblockerlists
 www.n5.pool.mn,coinminer domain(www.n5.pool.mn),cryptomining,coinblockerlists
 www.nablabee.com,coinminer domain(www.nablabee.com),cryptomining,coinblockerlists
 www.nac.pool.mn,coinminer domain(www.nac.pool.mn),cryptomining,coinblockerlists
