@@ -1,5 +1,9 @@
+firebasestorage.googleapis.com,phishing domain(firebasestorage.googleapis.com),phishing,phishtank
+sms-cef.giize.com,phishing domain(sms-cef.giize.com),phishing,phishtank
+www.rakuten-co-jp.cn,phishing domain(www.rakuten-co-jp.cn),phishing,phishtank
+www.rakuten-co-jp.org.cn,phishing domain(www.rakuten-co-jp.org.cn),phishing,phishtank
+dofus-shop.cam,phishing domain(dofus-shop.cam),phishing,phishtank
 www.ankama-aide.com,phishing domain(www.ankama-aide.com),phishing,phishtank
-dayelvrvkutmpyne0822.top,phishing domain(dayelvrvkutmpyne0822.top),phishing,phishtank
 tm.ultramixer.com,phishing domain(tm.ultramixer.com),phishing,phishtank
 ankama-code.com,phishing domain(ankama-code.com),phishing,phishtank
 https.www.paypal.com.ttlart2012ttcysu.aylandirow.tmf.org.ru,phishing domain(https.www.paypal.com.ttlart2012ttcysu.aylandirow.tmf.org.ru),phishing,phishtank
@@ -11,6 +15,9 @@ amazon.com.preferredmethods.nz-c0bk.ml,phishing domain(amazon.com.preferredmetho
 acustica.ec,phishing domain(acustica.ec),phishing,phishtank
 indiatravel.co.in,phishing domain(indiatravel.co.in),phishing,phishtank
 ser.yohuaibei.cn,phishing domain(ser.yohuaibei.cn),phishing,phishtank
+card.tojprakuten.xyz,phishing domain(card.tojprakuten.xyz),phishing,phishtank
+apple1.song15.monster,phishing domain(apple1.song15.monster),phishing,phishtank
+amazon.id-login.xyz,phishing domain(amazon.id-login.xyz),phishing,phishtank
 login.rakuten.co.jp.rakutenamsdnwwefklsdf.cyou,phishing domain(login.rakuten.co.jp.rakutenamsdnwwefklsdf.cyou),phishing,phishtank
 muneeb.website,phishing domain(muneeb.website),phishing,phishtank
 ebay-mitglieder-diskussionsforen-us0.html-5.me,phishing domain(ebay-mitglieder-diskussionsforen-us0.html-5.me),phishing,phishtank
@@ -30,8 +37,9 @@ empresas.juridicabr.com,phishing domain(empresas.juridicabr.com),phishing,phisht
 narsone.com,phishing domain(narsone.com),phishing,phishtank
 silverhillfunding.com,phishing domain(silverhillfunding.com),phishing,phishtank
 ppaypcoyjp.com,phishing domain(ppaypcoyjp.com),phishing,phishtank
+paypal.com.verify-ssid.webredirect.org,phishing domain(paypal.com.verify-ssid.webredirect.org),phishing,phishtank
+intld.ampaypalc.com.verify-ssid.webredirect.org,phishing domain(intld.ampaypalc.com.verify-ssid.webredirect.org),phishing,phishtank
 rakuten.co.jp.rakutencncnaymysfcojp.com,phishing domain(rakuten.co.jp.rakutencncnaymysfcojp.com),phishing,phishtank
-firebasestorage.googleapis.com,phishing domain(firebasestorage.googleapis.com),phishing,phishtank
 snip.ly,phishing domain(snip.ly),phishing,phishtank
 rakuten.co.jp.azanoz.xyz,phishing domain(rakuten.co.jp.azanoz.xyz),phishing,phishtank
 dev-ec21-com.pantheonsite.io,phishing domain(dev-ec21-com.pantheonsite.io),phishing,phishtank
@@ -246,7 +254,6 @@ my-unionbankph.com,phishing domain(my-unionbankph.com),phishing,phishtank
 www.autorizador5.com.br,phishing domain(www.autorizador5.com.br),phishing,phishtank
 wildcard.secure-ssl-d3w.com,phishing domain(wildcard.secure-ssl-d3w.com),phishing,phishtank
 wildcard.sec0-sf33-rss.com,phishing domain(wildcard.sec0-sf33-rss.com),phishing,phishtank
-wildcard.mls-d2-f4-sdd.com,phishing domain(wildcard.mls-d2-f4-sdd.com),phishing,phishtank
 www.hishamdavidshihadeh.com,phishing domain(www.hishamdavidshihadeh.com),phishing,phishtank
 kmananeng.com,phishing domain(kmananeng.com),phishing,phishtank
 bcpzonansegura03-beta-viabcp-com.000webhostapp.com,phishing domain(bcpzonansegura03-beta-viabcp-com.000webhostapp.com),phishing,phishtank
@@ -306,6 +313,7 @@ www.security.verify.arixbd.com,phishing domain(www.security.verify.arixbd.com),p
 www.reduni.org,phishing domain(www.reduni.org),phishing,phishtank
 www.mite-jo.com,phishing domain(www.mite-jo.com),phishing,phishtank
 www.facebook-team-support.analysthawk.com,phishing domain(www.facebook-team-support.analysthawk.com),phishing,phishtank
+wildcard.mls-d2-f4-sdd.com,phishing domain(wildcard.mls-d2-f4-sdd.com),phishing,phishtank
 www.pharmaglobiz.com,phishing domain(www.pharmaglobiz.com),phishing,phishtank
 www.digitalrainmakers.com,phishing domain(www.digitalrainmakers.com),phishing,phishtank
 www.demi.gob.gt,phishing domain(www.demi.gob.gt),phishing,phishtank
@@ -322,7 +330,6 @@ security.verify.arixbd.com,phishing domain(security.verify.arixbd.com),phishing,
 secure-chazebank1.xyz,phishing domain(secure-chazebank1.xyz),phishing,phishtank
 secure-chazebank0.xyz,phishing domain(secure-chazebank0.xyz),phishing,phishtank
 chowsermatchs.com,phishing domain(chowsermatchs.com),phishing,phishtank
-cabticket.com,phishing domain(cabticket.com),phishing,phishtank
 atthtn.net,phishing domain(atthtn.net),phishing,phishtank
 arkitektonline.com,phishing domain(arkitektonline.com),phishing,phishtank
 apple.lockeid.cn,phishing domain(apple.lockeid.cn),phishing,phishtank
@@ -425,7 +432,6 @@ businessinflux.com,phishing domain(businessinflux.com),phishing,phishtank
 painpage.org,phishing domain(painpage.org),phishing,phishtank
 overcacked.cf,phishing domain(overcacked.cf),phishing,phishtank
 nontonsampaibasahcrpt.000webhostapp.com,phishing domain(nontonsampaibasahcrpt.000webhostapp.com),phishing,phishtank
-musicloverlys.cf,phishing domain(musicloverlys.cf),phishing,phishtank
 mitigatory-knees.000webhostapp.com,phishing domain(mitigatory-knees.000webhostapp.com),phishing,phishtank
 kususdeawasa18.000webhostapp.com,phishing domain(kususdeawasa18.000webhostapp.com),phishing,phishtank
 kelasonline09.000webhostapp.com,phishing domain(kelasonline09.000webhostapp.com),phishing,phishtank
@@ -623,7 +629,6 @@ pista-house-app.thynking.com,phishing domain(pista-house-app.thynking.com),phish
 shinynickel.000webhostapp.com,phishing domain(shinynickel.000webhostapp.com),phishing,phishtank
 cpanel10wh.bkk1.cloud.z.com,phishing domain(cpanel10wh.bkk1.cloud.z.com),phishing,phishtank
 zmdvjrwvyzszcjgdyb.top,phishing domain(zmdvjrwvyzszcjgdyb.top),phishing,phishtank
-ngfczzapsgntvrppdv.top,phishing domain(ngfczzapsgntvrppdv.top),phishing,phishtank
 instaresetlebanon.000webhostapp.com,phishing domain(instaresetlebanon.000webhostapp.com),phishing,phishtank
 kindled-buffer.000webhostapp.com,phishing domain(kindled-buffer.000webhostapp.com),phishing,phishtank
 site.bdorcvrypgehlpbsns01.my.id,phishing domain(site.bdorcvrypgehlpbsns01.my.id),phishing,phishtank
@@ -634,7 +639,6 @@ dev-passport-alibaba-com.pantheonsite.io,phishing domain(dev-passport-alibaba-co
 member.rakuten.co.jp.rakutenasdmklwasdlwek.monster,phishing domain(member.rakuten.co.jp.rakutenasdmklwasdlwek.monster),phishing,phishtank
 site.tngglpgercvrysrvce01.my.id,phishing domain(site.tngglpgercvrysrvce01.my.id),phishing,phishtank
 suspgercvrysrvce01.my.id,phishing domain(suspgercvrysrvce01.my.id),phishing,phishtank
-www.1adsfbsrecvrysfec.xyz,phishing domain(www.1adsfbsrecvrysfec.xyz),phishing,phishtank
 advanced-enable-certificated-pages-valid-072200162020.tk,phishing domain(advanced-enable-certificated-pages-valid-072200162020.tk),phishing,phishtank
 proyectoprueba112233.000webhostapp.com,phishing domain(proyectoprueba112233.000webhostapp.com),phishing,phishtank
 apartemenyy.000webhostapp.com,phishing domain(apartemenyy.000webhostapp.com),phishing,phishtank
@@ -757,6 +761,7 @@ theatrecarthage.000webhostapp.com,phishing domain(theatrecarthage.000webhostapp.
 coinhighdomino123.000webhostapp.com,phishing domain(coinhighdomino123.000webhostapp.com),phishing,phishtank
 mptecare.000webhostapp.com,phishing domain(mptecare.000webhostapp.com),phishing,phishtank
 freejface.000webhostapp.com,phishing domain(freejface.000webhostapp.com),phishing,phishtank
+kfojgfdlg.000webhostapp.com,phishing domain(kfojgfdlg.000webhostapp.com),phishing,phishtank
 2freerecharge2.000webhostapp.com,phishing domain(2freerecharge2.000webhostapp.com),phishing,phishtank
 eradicative-ratings.000webhostapp.com,phishing domain(eradicative-ratings.000webhostapp.com),phishing,phishtank
 nhanquafreefive.000webhostapp.com,phishing domain(nhanquafreefive.000webhostapp.com),phishing,phishtank
@@ -804,7 +809,6 @@ i-ltaucard.com,phishing domain(i-ltaucard.com),phishing,phishtank
 whatsapp-group-inviteku18.2waky.com,phishing domain(whatsapp-group-inviteku18.2waky.com),phishing,phishtank
 groupwa17thnkhususdewasa.000webhostapp.com,phishing domain(groupwa17thnkhususdewasa.000webhostapp.com),phishing,phishtank
 www.mymembership-renew.com,phishing domain(www.mymembership-renew.com),phishing,phishtank
-sfdfefefr.com,phishing domain(sfdfefefr.com),phishing,phishtank
 grupwhaatsapterbaru.000webhostapp.com,phishing domain(grupwhaatsapterbaru.000webhostapp.com),phishing,phishtank
 iniciodesecionmx.000webhostapp.com,phishing domain(iniciodesecionmx.000webhostapp.com),phishing,phishtank
 jasandwarn.com,phishing domain(jasandwarn.com),phishing,phishtank
@@ -830,7 +834,6 @@ phprealweb.com,phishing domain(phprealweb.com),phishing,phishtank
 instgram-iogin.000webhostapp.com,phishing domain(instgram-iogin.000webhostapp.com),phishing,phishtank
 liska-szki.hu,phishing domain(liska-szki.hu),phishing,phishtank
 otropuerto.com,phishing domain(otropuerto.com),phishing,phishtank
-www.greenginnovation.com,phishing domain(www.greenginnovation.com),phishing,phishtank
 web3334.web03.bero-webspace.de,phishing domain(web3334.web03.bero-webspace.de),phishing,phishtank
 greenginnovation.com,phishing domain(greenginnovation.com),phishing,phishtank
 fashionrunway.000webhostapp.com,phishing domain(fashionrunway.000webhostapp.com),phishing,phishtank
@@ -1163,7 +1166,6 @@ weranfer.xyz,phishing domain(weranfer.xyz),phishing,phishtank
 exchange-guarantor.info,phishing domain(exchange-guarantor.info),phishing,phishtank
 165.3.89.249,phishing domain(165.3.89.249),phishing,phishtank
 ee.uk.contract01.com,phishing domain(ee.uk.contract01.com),phishing,phishtank
-ee.uk.accinf5.com,phishing domain(ee.uk.accinf5.com),phishing,phishtank
 fix-d5045.web.app,phishing domain(fix-d5045.web.app),phishing,phishtank
 o-f-ice.du.r.appspot.com,phishing domain(o-f-ice.du.r.appspot.com),phishing,phishtank
 grupwhatsappsviralnew.my03.com,phishing domain(grupwhatsappsviralnew.my03.com),phishing,phishtank
@@ -1244,7 +1246,6 @@ gy69u5794380.dt.r.appspot.com,phishing domain(gy69u5794380.dt.r.appspot.com),phi
 www.spatialdesignlab.com,phishing domain(www.spatialdesignlab.com),phishing,phishtank
 www.formations-maroc.com,phishing domain(www.formations-maroc.com),phishing,phishtank
 www.aida.org.in,phishing domain(www.aida.org.in),phishing,phishtank
-www.s3ctysdfadsfbswcy.xyz,phishing domain(www.s3ctysdfadsfbswcy.xyz),phishing,phishtank
 www.itoken-itau.com,phishing domain(www.itoken-itau.com),phishing,phishtank
 verifyppals.com,phishing domain(verifyppals.com),phishing,phishtank
 soft-spoken-satelli.000webhostapp.com,phishing domain(soft-spoken-satelli.000webhostapp.com),phishing,phishtank
@@ -1305,7 +1306,6 @@ proconaraguaina.weebly.com,phishing domain(proconaraguaina.weebly.com),phishing,
 xn--prvnote-hza.com,phishing domain(xn--prvnote-hza.com),phishing,phishtank
 user-terms2609.com,phishing domain(user-terms2609.com),phishing,phishtank
 qwrsmsxiauzhdzsxos66fq-on.drv.tw,phishing domain(qwrsmsxiauzhdzsxos66fq-on.drv.tw),phishing,phishtank
-rakuten.co.jp.rmsidnlogi.com,phishing domain(rakuten.co.jp.rmsidnlogi.com),phishing,phishtank
 secure.runescape.com-un.cc,phishing domain(secure.runescape.com-un.cc),phishing,phishtank
 banking.bawagpsk.com.bestaetigung1377187.xyz,phishing domain(banking.bawagpsk.com.bestaetigung1377187.xyz),phishing,phishtank
 secure.runescape.as-runs.com,phishing domain(secure.runescape.as-runs.com),phishing,phishtank
@@ -2887,7 +2887,6 @@ www.impotspublicservice.com,phishing domain(www.impotspublicservice.com),phishin
 televoip.com.ve,phishing domain(televoip.com.ve),phishing,phishtank
 malejaduff.com,phishing domain(malejaduff.com),phishing,phishtank
 annazonjp.co,phishing domain(annazonjp.co),phishing,phishtank
-108.166.216.177,phishing domain(108.166.216.177),phishing,phishtank
 osmantraining.com,phishing domain(osmantraining.com),phishing,phishtank
 gov.hmrc-regaintax.com,phishing domain(gov.hmrc-regaintax.com),phishing,phishtank
 premiumztore.com,phishing domain(premiumztore.com),phishing,phishtank
@@ -3055,7 +3054,6 @@ breken-nieuws.com,phishing domain(breken-nieuws.com),phishing,phishtank
 www.zonaseguraviabcp.sms-pe.com,phishing domain(www.zonaseguraviabcp.sms-pe.com),phishing,phishtank
 atagucsea.com,phishing domain(atagucsea.com),phishing,phishtank
 secure-login-portal-outlook.el.r.appspot.com,phishing domain(secure-login-portal-outlook.el.r.appspot.com),phishing,phishtank
-mykinfotech.com,phishing domain(mykinfotech.com),phishing,phishtank
 yy13041.moonfruit.com,phishing domain(yy13041.moonfruit.com),phishing,phishtank
 corinneca.moonfruit.com,phishing domain(corinneca.moonfruit.com),phishing,phishtank
 paypal.limitations-uk-eu.com,phishing domain(paypal.limitations-uk-eu.com),phishing,phishtank
